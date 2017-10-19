@@ -1,0 +1,439 @@
+﻿Log file open, 10/11/17 10:16:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectOrca
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-42110296) SRandInit(-42110296).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.441806
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/weret/Project/Unreal/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.11-09.16.20:871][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.11-09.16.20:871][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.11-09.16.21:035][  0]LogInit: Computer: WERETHROPE
+[2017.10.11-09.16.21:035][  0]LogInit: User: weret
+[2017.10.11-09.16.21:035][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.11-09.16.21:035][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2017.10.11-09.16.21:036][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.10.11-09.16.21:036][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.11-09.16.21:036][  0]LogMemory: Process Physical Memory: 278.04 MB used, 278.04 MB peak
+[2017.10.11-09.16.21:036][  0]LogMemory: Process Virtual Memory: 274.30 MB used, 274.30 MB peak
+[2017.10.11-09.16.21:036][  0]LogMemory: Physical Memory: 10144.17 MB used,  6178.41 MB free, 16322.59 MB total
+[2017.10.11-09.16.21:036][  0]LogMemory: Virtual Memory: 668.78 MB used,  6178.41 MB free, 134217728.00 MB total
+[2017.10.11-09.16.22:358][  0]LogInit: Using OS detected language (en-US).
+[2017.10.11-09.16.22:358][  0]LogInit: Using OS detected locale (en-MY).
+[2017.10.11-09.16.22:663][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.11-09.16.28:212][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.11-09.16.29:456][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2017.10.11-09.16.29:456][  0]LogD3D11RHI:       4061/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.11-09.16.29:458][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.11-09.16.29:458][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.11-09.16.29:458][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.11-09.16.29:469][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.11-09.16.29:469][  0]LogD3D11RHI:     GPU DeviceId: 0x1617 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.11-09.16.29:469][  0]LogWindows: EnumDisplayDevices:
+[2017.10.11-09.16.29:469][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2017.10.11-09.16.29:470][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2017.10.11-09.16.29:470][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2017.10.11-09.16.29:470][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2017.10.11-09.16.29:470][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.10.11-09.16.29:470][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2017.10.11-09.16.29:470][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2017.10.11-09.16.29:470][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2017.10.11-09.16.29:470][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.11-09.16.30:159][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.11-09.16.30:522][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.11-09.16.30:674][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (../../../../../ProjectOrca/Intermediate/Shaders/WorkingDirectory/12572/).
+[2017.10.11-09.16.30:674][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/weret/AppData/Local/Temp/UnrealShaderWorkingDir/4CE33579427986996DF44CB160F2E0C7/'.
+[2017.10.11-09.16.30:691][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.11-09.16.35:330][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.11-09.16.35:379][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.11-09.16.35:425][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.11-09.16.35:482][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.11-09.16.35:566][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.11-09.16.35:611][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.11-09.16.35:658][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.11-09.16.35:708][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.11-09.16.35:752][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.11-09.16.35:820][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.11-09.16.35:868][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.11-09.16.35:915][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.11-09.16.35:965][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.11-09.16.36:011][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.11-09.16.36:062][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.11-09.16.36:171][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.11-09.16.36:171][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.11-09.16.36:209][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.11-09.16.36:437][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.11-09.16.36:479][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.11-09.16.36:528][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.11-09.16.36:587][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.11-09.16.36:638][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.11-09.16.36:730][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.11-09.16.36:730][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.11-09.16.38:117][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.11-09.16.38:388][  0]LogDerivedDataCache: Loaded boot cache 0.27s 93MB C:/Users/weret/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.11-09.16.38:388][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/weret/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.11-09.16.38:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ProjectOrca/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.11-09.16.38:388][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.11-09.16.38:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ProjectOrca/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.11-09.16.38:388][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.11-09.16.38:462][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.11-09.16.38:477][  0]LogDerivedDataCache: Using Local data cache path C:/Users/weret/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.11-09.16.38:547][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.11-09.16.38:616][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.11-09.16.38:748][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.11-09.16.38:751][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.11-09.16.47:867][  0]LogAssetRegistry: FAssetRegistry took 0.0647 seconds to start up
+[2017.10.11-09.16.49:831][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.11-09.16.52:933][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.11-09.16.53:851][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.11-09.16.53:913][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.11-09.16.53:928][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.11-09.16.53:929][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.11-09.16.53:929][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.11-09.16.53:929][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.11-09.16.57:164][  0]LogNetVersion: ProjectOrca , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 811679591)
+[2017.10.11-09.16.58:839][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.183652 seconds
+[2017.10.11-09.16.58:863][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.11-09.16.58:863][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.11-09.16.58:863][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.11-09.16.58:914][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.11-09.17.19:716][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.11-09.17.19:768][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.11-09.17.21:260][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.11-09.17.22:083][  0]SourceControl: Source control is disabled
+[2017.10.11-09.17.22:083][  0]SourceControl: Source control is disabled
+[2017.10.11-09.17.22:173][  0]SourceControl: Source control is disabled
+[2017.10.11-09.17.22:226][  0]SourceControl: Source control is disabled
+[2017.10.11-09.17.23:272][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.11-09.17.23:498][  0]LogOcInput: OculusInput pre-init called
+[2017.10.11-09.17.24:105][  0]LogEngine: Initializing Engine...
+[2017.10.11-09.17.24:459][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.10.11-09.17.27:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.11-09.17.27:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.11-09.17.28:458][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.11-09.17.28:723][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.11-09.17.28:799][  0]LogInit: FAudioDevice initialized.
+[2017.10.11-09.17.28:895][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/weret/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.11-09.17.28:904][  0]LogInit: Texture streaming: Enabled
+[2017.10.11-09.17.29:174][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.11-09.17.30:798][  0]LogInit: Transaction tracking system initialized
+[2017.10.11-09.17.32:230][  0]BlueprintLog: New page: Editor Load
+[2017.10.11-09.17.35:970][  0]LocalizationService: Localization service is disabled
+[2017.10.11-09.17.37:337][  0]LogConsoleResponse: Display: 
+[2017.10.11-09.17.39:558][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.11-09.17.39:558][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.11-09.17.39:635][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.11-09.17.40:130][  0]LogFileCache: Scanning file cache for directory 'D:/weret/Project/ProjectOrca/Content/' took 0.19s
+[2017.10.11-09.17.42:288][  0]SourceControl: Source control is disabled
+[2017.10.11-09.17.42:407][  0]Cmd: MAP LOAD FILE="../../../../../ProjectOrca/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.11-09.17.42:427][  0]LightingResults: New page: Lighting Build
+[2017.10.11-09.17.42:631][  0]MapCheck: New page: Map Check
+[2017.10.11-09.17.42:631][  0]LightingResults: New page: Lighting Build
+[2017.10.11-09.17.50:281][  0]LogAIModule: Creating AISystem for world DevMap
+[2017.10.11-09.17.51:036][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.11-09.17.51:151][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.11-09.17.51:224][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.491ms to complete.
+[2017.10.11-09.17.51:224][  0]LogFileHelpers: Loading map 'DevMap' took 8.903
+[2017.10.11-09.17.52:553][  0]LogCollectionManager: Loaded 0 collections in 0.001135 seconds
+[2017.10.11-09.17.52:857][  0]LogFileCache: Scanning file cache for directory 'D:/weret/Project/ProjectOrca/Saved/Collections/' took 0.01s
+[2017.10.11-09.17.52:857][  0]LogFileCache: Scanning file cache for directory 'D:/weret/Project/ProjectOrca/Content/Developers/weret/Collections/' took 0.01s
+[2017.10.11-09.17.52:857][  0]LogFileCache: Scanning file cache for directory 'D:/weret/Project/ProjectOrca/Content/Collections/' took 0.01s
+[2017.10.11-09.17.52:857][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.11-09.17.52:877][  0]LogContentBrowser: Native class hierarchy populated in 0.0194 seconds. Added 2386 classes and 500 folders.
+[2017.10.11-09.17.52:986][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.11-09.17.54:364][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.11-09.17.54:452][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.10.11-09.17.55:917][  0]LogSlate: Took 0.026097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.11-09.17.55:952][  0]LogSlate: Took 0.022733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.11-09.17.56:025][  0]LogSlate: Took 0.020337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.11-09.17.56:492][  0]LogRenderer: Reallocating scene render targets to support 532x284 Format 10 NumSamples 1 (Frame:1).
+[2017.10.11-09.17.56:716][  0]LogRenderer: Reallocating scene render targets to support 1060x564 Format 9 NumSamples 1 (Frame:1).
+[2017.10.11-09.17.57:044][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.11-09.17.57:045][  0]LogLoad: (Engine Initialization) Total time: 111.47 seconds
+[2017.10.11-09.17.57:045][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.11-09.17.57:045][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.11-09.17.57:460][  0]LogContentStreaming: Texture pool size now 800 MB
+[2017.10.11-09.17.57:644][  0]LogSlate: Took 0.020669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.11-09.17.58:392][  3]LogAssetRegistry: Asset discovery search completed in 70.5466 seconds
+[2017.10.11-09.17.58:394][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.11-09.17.58:395][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2017.10.11-09.18.57:418][237]LogHttp: Warning: 000002B8ED79DD80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.11-09.18.57:418][237]LogHttp: Warning: 000002B8ED79DD80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.11-09.18.57:419][237]LogHttp: Warning: 000002B8ED79DD80: libcurl info message cache 1 (Closing connection 0)
+[2017.10.11-09.20.58:085][599]LogHttp: Warning: 000002B8ED79CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.11-09.20.58:085][599]LogHttp: Warning: 000002B8ED79CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.11-09.20.58:085][599]LogHttp: Warning: 000002B8ED79CD00: libcurl info message cache 1 (Closing connection 1)
+[2017.10.11-09.22.58:429][960]LogHttp: Warning: 000002B8ED79CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.11-09.22.58:429][960]LogHttp: Warning: 000002B8ED79CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.11-09.22.58:429][960]LogHttp: Warning: 000002B8ED79CD00: libcurl info message cache 1 (Closing connection 2)
+[2017.10.11-09.24.58:891][388]LogHttp: Warning: 000002B8ED79F100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.11-09.24.58:891][388]LogHttp: Warning: 000002B8ED79F100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.11-09.24.58:891][388]LogHttp: Warning: 000002B8ED79F100: libcurl info message cache 1 (Closing connection 3)
+[2017.10.11-09.27.16:730][ 36]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.11-09.27.16:819][ 36]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2017.10.11-09.27.17:264][ 36]LogRenderer: Reallocating scene render targets to support 1060x688 Format 9 NumSamples 1 (Frame:1).
+[2017.10.11-09.27.19:910][124]LogRenderer: Reallocating scene render targets to support 1060x692 Format 9 NumSamples 1 (Frame:4).
+[2017.10.11-09.27.20:090][124]LogRenderer: Reallocating scene render targets to support 1060x720 Format 9 NumSamples 1 (Frame:7).
+[2017.10.11-09.27.20:165][124]LogRenderer: Reallocating scene render targets to support 1060x752 Format 9 NumSamples 1 (Frame:8).
+[2017.10.11-09.27.20:246][124]LogRenderer: Reallocating scene render targets to support 1060x756 Format 9 NumSamples 1 (Frame:9).
+[2017.10.11-09.27.29:358][339]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2017.10.11-09.28.02:940][404]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.28.03:648][431]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.28.04:239][453]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.28.17:116][915]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.28.17:647][935]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.28.19:040][987]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.28.20:409][ 31]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.28.25:366][215]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.28.26:927][273]LogParticles: Warning: MaxCount =  802 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.30.06:508][527]LogParticles: Warning: MaxCount = 2004 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.30.08:987][620]LogParticles: Warning: MaxCount = 4007 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.30.10:517][677]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.30.14:759][835]LogParticles: Warning: MaxCount = 12020 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.30.17:201][926]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.30.31:716][409]LogParticles: Warning: MaxCount = 10016 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.30.40:682][721]LogParticles: Warning: MaxCount = 6010 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.30.46:229][882]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.32.30:995][772]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.11-09.32.39:454][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap' took 0.064
+[2017.10.11-09.32.40:207][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P] ([1] browsable assets)...
+[2017.10.11-09.32.40:398][798]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P]
+[2017.10.11-09.32.40:398][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P]
+[2017.10.11-09.32.42:254][798]LogSavePackage: Save=223.52ms
+[2017.10.11-09.32.42:254][798]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/Bubbles_Constant_P_Auto121ED1A41462943D463DB37A806E2E147.tmp' to '../../../../../ProjectOrca/Saved/Autosaves/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P_Auto1.uasset'
+[2017.10.11-09.32.42:293][798]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.11-09.32.42:332][798]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Saved/Autosaves/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P_Auto1.uasset
+[2017.10.11-09.32.42:332][798]LogFileHelpers: Auto-saving content packages took 2.878
+[2017.10.11-09.33.28:380][ 91]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.10.11-09.34.05:173][140]LogEditorViewport: Clicking on Actor (LMB): Emitter (Bubbles_Constant_P2)
+[2017.10.11-09.34.19:806][973]Cmd: SELECT NONE
+[2017.10.11-09.34.36:090][945]Cmd: TRANSACTION UNDO
+[2017.10.11-09.34.36:091][945]LogEditorTransaction: Undo Select None
+[2017.10.11-09.34.36:957][971]Cmd: TRANSACTION UNDO
+[2017.10.11-09.34.36:957][971]LogEditorTransaction: Undo Move Actors
+[2017.10.11-09.34.39:581][ 68]Cmd: TRANSACTION UNDO
+[2017.10.11-09.34.39:581][ 68]LogEditorTransaction: Undo Move Actors
+[2017.10.11-09.34.40:064][ 86]Cmd: TRANSACTION UNDO
+[2017.10.11-09.34.40:064][ 86]LogEditorTransaction: Undo Move Actors
+[2017.10.11-09.34.41:308][131]Cmd: TRANSACTION UNDO
+[2017.10.11-09.34.41:308][131]LogEditorTransaction: Undo Move Actors
+[2017.10.11-09.34.42:178][164]Cmd: SELECT NONE
+[2017.10.11-09.34.57:723][445]LogHttp: Warning: 000002B8E1266F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.11-09.34.57:723][445]LogHttp: Warning: 000002B8E1266F80: libcurl info message cache 0 (Connection 7 seems to be dead!)
+[2017.10.11-09.34.57:723][445]LogHttp: Warning: 000002B8E1266F80: libcurl info message cache 1 (Closing connection 7)
+[2017.10.11-09.34.57:723][445]LogHttp: Warning: 000002B8E1266F80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.10.11-09.34.57:723][445]LogHttp: Warning: 000002B8E1266F80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.11-09.34.57:723][445]LogHttp: Warning: 000002B8E1266F80: libcurl info message cache 4 (Closing connection 8)
+[2017.10.11-09.42.33:412][881]LogHttp: Warning: 000002B8E2D61480: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2b8b0fc3fb8 [can pipeline])
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.231.11.75) port 443 (#10))
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 3 (upload completely sent off: 363 out of 363 bytes)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 6 (Closing connection 10)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2DEC127D-4B5E-20AD-03AD-F7B37B1CA721%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=01e94a2c4f636a563311e5b28bd16fa0%7C495f3335c5724314bcf7c78d424bc0ae%7C7e43c01f-2dfc-4db6-9423-a02c9184544b&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 9 (  Trying 52.20.102.53...)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.20.102.53) port 443 (#11))
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 13 (SSL re-using session ID)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 19 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 20 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 22 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 23 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2017.10.11-09.42.33:413][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 24 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 25 (ALPN, server did not agree to a protocol)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 26 (old SSL session ID is stale, removing)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 27 (Server certificate:)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 28 (	 subject: CN=*.ol.epicgames.com)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 29 (	 start date: Mar 23 00:00:00 2017 GMT)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 30 (	 expire date: Apr 23 12:00:00 2018 GMT)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 31 (	 subjectAltName: datarouter.ol.epicgames.com matched)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 32 (	 issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 33 (	 SSL certificate verify ok.)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 34 (upload completely sent off: 363 out of 363 bytes)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 35 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E2D61480: libcurl info message cache 36 (Closing connection 11)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2b8b0fc3dd8 [serially])
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 2 (  Trying 52.20.102.53...)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 3 (connect to 52.20.102.53 port 443 failed: Timed out)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 4 (  Trying 34.232.38.59...)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 5 (connect to 34.232.38.59 port 443 failed: Connection was aborted)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 6 (  Trying 34.231.11.75...)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 7 (connect to 34.231.11.75 port 443 failed: Network unreachable)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 8 (  Trying 34.230.152.110...)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 9 (connect to 34.230.152.110 port 443 failed: Network unreachable)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 10 (  Trying 52.20.191.231...)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 11 (connect to 52.20.191.231 port 443 failed: Network unreachable)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 12 (  Trying 34.229.8.133...)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 13 (connect to 34.229.8.133 port 443 failed: Network unreachable)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 14 (  Trying 34.235.46.42...)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 15 (connect to 34.235.46.42 port 443 failed: Network unreachable)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 16 (  Trying 52.204.12.192...)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 17 (connect to 52.204.12.192 port 443 failed: Network unreachable)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 18 (Failed to connect to datarouter.ol.epicgames.com port 443: Network unreachable)
+[2017.10.11-09.42.33:414][881]LogHttp: Warning: 000002B8E1264400: libcurl info message cache 19 (Closing connection 12)
+[2017.10.11-09.42.42:796][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="../../../../../ProjectOrca/Saved/Autosaves/Game/Maps/DevMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.11-09.42.43:166][908]LogSavePackage: Save=351.14ms
+[2017.10.11-09.42.43:166][908]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/DevMap_Auto2906E8EC14FD2E940E9CD0F95219D3CA6.tmp' to '../../../../../ProjectOrca/Saved/Autosaves/Game/Maps/DevMap_Auto2.umap'
+[2017.10.11-09.42.43:167][908]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Saved/Autosaves/Game/Maps/DevMap_Auto2.umap
+[2017.10.11-09.42.43:211][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap' took 0.465
+[2017.10.11-09.42.43:211][908]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.465
+[2017.10.11-09.42.43:230][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets_Environments/UnderwaterMaterial/Caustics_M_Inst] ([1] browsable assets)...
+[2017.10.11-09.42.43:263][908]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets_Environments/UnderwaterMaterial/Caustics_M_Inst.Caustics_M_Inst]
+[2017.10.11-09.42.43:263][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets_Environments/UnderwaterMaterial/Caustics_M_Inst]
+[2017.10.11-09.42.43:275][908]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2017.10.11-09.42.43:337][908]LogSavePackage: Save=19.05ms
+[2017.10.11-09.42.43:337][908]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/Caustics_M_Inst_Auto237F591FD4936DF48BE271C94E05EC05F.tmp' to '../../../../../ProjectOrca/Saved/Autosaves/Game/Assets_Environments/UnderwaterMaterial/Caustics_M_Inst_Auto2.uasset'
+[2017.10.11-09.42.43:338][908]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Saved/Autosaves/Game/Assets_Environments/UnderwaterMaterial/Caustics_M_Inst_Auto2.uasset
+[2017.10.11-09.42.43:339][908]LogFileHelpers: Auto-saving content packages took 0.110
+[2017.10.11-09.51.30:200][ 88]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.51.33:370][200]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.51.34:307][235]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.51.43:978][595]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.51.46:506][689]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.51.49:355][795]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.51.50:377][833]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.51.53:225][939]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.52.01:060][229]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.52.03:638][325]LogParticles: Warning: MaxCount = 8013 for Emitter ParticleSpriteEmitter_0 (/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P)
+[2017.10.11-09.52.16:604][807]Cmd: SELECT NONE
+[2017.10.11-09.53.01:447][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap' took 0.011
+[2017.10.11-09.53.01:452][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P] ([1] browsable assets)...
+[2017.10.11-09.53.01:490][407]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.Bubbles_Constant_P]
+[2017.10.11-09.53.01:490][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P]
+[2017.10.11-09.53.01:525][407]LogSavePackage: Save=16.51ms
+[2017.10.11-09.53.01:525][407]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/Bubbles_Constant_P_Auto30A889556468CADBC3D5239AD052166A7.tmp' to '../../../../../ProjectOrca/Saved/Autosaves/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P_Auto3.uasset'
+[2017.10.11-09.53.01:527][407]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Saved/Autosaves/Game/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P_Auto3.uasset
+[2017.10.11-09.53.01:527][407]LogFileHelpers: Auto-saving content packages took 0.077
+[2017.10.11-09.53.07:400][592]Cmd: SELECT NONE
+[2017.10.11-09.54.00:561][ 49]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2017.10.11-12.54.03:531][535]LogSavePackage: Save=58.32ms
+[2017.10.11-12.54.03:532][535]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/Bubbles_Constant_P1FD65D0F46BE6E6BFF40E3894E141C05.tmp' to '../../../../../ProjectOrca/Content/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.uasset'
+[2017.10.11-12.54.03:550][535]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Content/Assets_Environments/UnderwaterMaterial/Bubbles_Constant_P.uasset
+[2017.10.11-12.54.03:581][535]LogSavePackage: Save=17.59ms
+[2017.10.11-12.54.03:581][535]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/Caustics_M_Inst8382D8844072C572E729079C6FD5F0CA.tmp' to '../../../../../ProjectOrca/Content/Assets_Environments/UnderwaterMaterial/Caustics_M_Inst.uasset'
+[2017.10.11-12.54.03:587][535]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Content/Assets_Environments/UnderwaterMaterial/Caustics_M_Inst.uasset
+[2017.10.11-12.54.05:714][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="../../../../../ProjectOrca/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.11-12.54.06:053][535]LogSavePackage: Save=308.52ms
+[2017.10.11-12.54.06:053][535]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/DevMapE97D05584A86A50ACC18E69B50FEC86B.tmp' to '../../../../../ProjectOrca/Content/Maps/DevMap.umap'
+[2017.10.11-12.54.06:059][535]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Content/Maps/DevMap.umap
+[2017.10.11-12.54.06:147][535]LogFileHelpers: Saving map 'DevMap' took 2.560
+[2017.10.11-12.54.06:373][535]LogWindows: Windows GetLastError: The operation completed successfully. (0)
