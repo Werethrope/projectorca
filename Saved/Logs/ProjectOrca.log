@@ -6014,3 +6014,125 @@ Scale3D: 1.000000 1.000000 1.000000
 [2018.02.01-22.24.49:914][206]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
 [2018.02.01-22.25.21:915][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
 [2018.02.01-22.25.21:983][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.08.58:145][265]AssetReimport: New page: Outstanding source content changes 12:08:58 AM
+[2018.02.02-00.09.19:556][305]AssetReimport: Attempting to delete Fire_eascape_railing (its source file has been removed).
+[2018.02.02-00.09.37:880][493]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-00.09.37:920][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.09.37:921][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-00.09.37:921][493]PIE: New page: PIE session: DevMap (Feb 2, 2018, 12:09:37 AM)
+[2018.02.02-00.09.37:921][493]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2018.02.02-00.09.37:953][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031797s)
+[2018.02.02-00.09.37:957][493]LogAIModule: Creating AISystem for world DevMap
+[2018.02.02-00.09.37:957][493]LogPlayLevel: PIE: World Init took: (0.003808s)
+[2018.02.02-00.09.37:958][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.036169s)
+[2018.02.02-00.09.37:997][493]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.02-00.09.38:058][493]LogInit: FAudioDevice initialized.
+[2018.02.02-00.09.38:096][493]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.02-00.09.38:105][493]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 60) at 2018.02.02-00.09.38
+[2018.02.02-00.09.38:106][493]LogWorld: Bringing up level for play took: 0.008327
+[2018.02.02-00.09.38:110][493]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DevMap 1.022
+[2018.02.02-00.09.38:111][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.09.54:517][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.09.54:591][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.10.34:360][581]LogStaticMesh: Building static mesh James_Davies_Building_A_Exterior_Floor_04...
+[2018.02.02-00.10.34:537][581]LogStaticMesh: Built static mesh [0.18s] /Game/Assets_Environments/Modular_Buildings/Building_A/James_Davies_Building_A_Exterior_Floor_04.James_Davies_Building_A_Exterior_Floor_04
+[2018.02.02-00.10.34:619][581]LogStaticMesh: Building static mesh James_Davies_Building_A_Exterior_Floor_05...
+[2018.02.02-00.10.34:851][581]LogStaticMesh: Built static mesh [0.23s] /Game/Assets_Environments/Modular_Buildings/Building_A/James_Davies_Building_A_Exterior_Floor_05.James_Davies_Building_A_Exterior_Floor_05
+[2018.02.02-00.10.34:871][581]LogStaticMesh: Building static mesh James_Davies_Building_A_Exterior_Floor_10...
+[2018.02.02-00.10.35:363][581]LogStaticMesh: Built static mesh [0.49s] /Game/Assets_Environments/Modular_Buildings/Building_A/James_Davies_Building_A_Exterior_Floor_10.James_Davies_Building_A_Exterior_Floor_10
+[2018.02.02-00.10.35:403][581]LogStaticMesh: Building static mesh James_Davies_Building_A_Exterior_Roof...
+[2018.02.02-00.10.35:508][581]LogStaticMesh: Built static mesh [0.11s] /Game/Assets_Environments/Modular_Buildings/Building_A/James_Davies_Building_A_Exterior_Roof.James_Davies_Building_A_Exterior_Roof
+[2018.02.02-00.10.35:530][581]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.02.02-00.10.35:553][581]LogAIModule: Creating AISystem for world James_LevelDemo
+[2018.02.02-00.10.48:660][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="../../../../../ProjectOrca/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.02-00.10.49:188][624]LogSavePackage: Save=353.40ms
+[2018.02.02-00.10.49:188][624]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/DevMap2BD4A958459FEA48CEE994B7B3A58CD1.tmp' to '../../../../../ProjectOrca/Content/Maps/DevMap.umap'
+[2018.02.02-00.10.49:196][624]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Content/Maps/DevMap.umap
+[2018.02.02-00.10.49:250][624]LogFileHelpers: Saving map 'DevMap' took 4.749
+[2018.02.02-00.10.49:250][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap_BuiltData" FILE="../../../../../ProjectOrca/Content/Maps/DevMap_BuiltData.uasset" SILENT=true
+[2018.02.02-00.10.49:297][624]LogSavePackage: Save=36.71ms
+[2018.02.02-00.10.49:297][624]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/DevMap_BuiltDataBC9B09E3476B8CEC5852559C5197DB84.tmp' to '../../../../../ProjectOrca/Content/Maps/DevMap_BuiltData.uasset'
+[2018.02.02-00.10.49:303][624]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Content/Maps/DevMap_BuiltData.uasset
+[2018.02.02-00.10.49:323][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../ProjectOrca/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.02.02-00.10.49:549][624]LogSavePackage: Save=213.42ms
+[2018.02.02-00.10.49:549][624]LogSavePackage: Moving '../../../../../ProjectOrca/Saved/ThirdPersonCharacter0739E77D4CE2AD2169C003901692BD17.tmp' to '../../../../../ProjectOrca/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.02.02-00.10.49:554][624]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectOrca/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.02.02-00.10.49:560][624]Cmd: MAP LOAD FILE="../../../../../ProjectOrca/Content/Maps/James_LevelDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.02-00.10.49:560][624]LightingResults: New page: Lighting Build
+[2018.02.02-00.10.49:561][624]LoadErrors: New page: Loading map: James_LevelDemo.umap
+[2018.02.02-00.10.49:565][624]MapCheck: New page: Map Check
+[2018.02.02-00.10.49:565][624]LightingResults: New page: Lighting Build
+[2018.02.02-00.10.49:814][624]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.02-00.10.49:882][624]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.02-00.10.49:979][624]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.592ms to complete.
+[2018.02.02-00.10.49:979][624]LogFileHelpers: Loading map 'James_LevelDemo' took 0.425
+[2018.02.02-00.10.53:394][803]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-00.10.53:423][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.James_LevelDemo' with GeneratedClass '/Game/Maps/James_LevelDemo.James_LevelDemo_C' with ClassGeneratedBy '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.James_LevelDemo'
+[2018.02.02-00.10.53:423][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-00.10.53:423][803]PIE: New page: PIE session: James_LevelDemo (Feb 2, 2018, 12:10:53 AM)
+[2018.02.02-00.10.53:423][803]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_James_LevelDemo
+[2018.02.02-00.10.53:440][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016515s)
+[2018.02.02-00.10.53:442][803]LogAIModule: Creating AISystem for world James_LevelDemo
+[2018.02.02-00.10.53:442][803]LogPlayLevel: PIE: World Init took: (0.002594s)
+[2018.02.02-00.10.53:443][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/James_LevelDemo.James_LevelDemo to /Game/Maps/UEDPIE_0_James_LevelDemo.James_LevelDemo (0.019558s)
+[2018.02.02-00.10.53:470][803]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.02-00.10.53:533][803]LogInit: FAudioDevice initialized.
+[2018.02.02-00.10.53:569][803]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.02-00.10.53:575][803]LogWorld: Bringing World /Game/Maps/UEDPIE_0_James_LevelDemo.James_LevelDemo up for play (max tick rate 60) at 2018.02.02-00.10.53
+[2018.02.02-00.10.53:576][803]LogWorld: Bringing up level for play took: 0.006235
+[2018.02.02-00.10.53:579][803]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_James_LevelDemo 0.492
+[2018.02.02-00.10.53:580][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.James_LevelDemo' with GeneratedClass '/Game/Maps/James_LevelDemo.James_LevelDemo_C' with ClassGeneratedBy '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.James_LevelDemo'
+[2018.02.02-00.10.57:171][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.James_LevelDemo' with GeneratedClass '/Game/Maps/James_LevelDemo.James_LevelDemo_C' with ClassGeneratedBy '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.James_LevelDemo'
+[2018.02.02-00.10.57:215][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.James_LevelDemo' with GeneratedClass '/Game/Maps/James_LevelDemo.James_LevelDemo_C' with ClassGeneratedBy '/Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.James_LevelDemo'
+[2018.02.02-00.10.59:011][ 59]LogAIModule: Creating AISystem for world DevMap
+[2018.02.02-00.10.59:039][ 59]Cmd: MAP LOAD FILE="../../../../../ProjectOrca/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.02-00.10.59:039][ 59]LightingResults: New page: Lighting Build
+[2018.02.02-00.10.59:040][ 59]LoadErrors: New page: Loading map: DevMap.umap
+[2018.02.02-00.10.59:042][ 59]MapCheck: New page: Map Check
+[2018.02.02-00.10.59:042][ 59]LightingResults: New page: Lighting Build
+[2018.02.02-00.10.59:451][ 59]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.02-00.10.59:520][ 59]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.02-00.10.59:622][ 59]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.683ms to complete.
+[2018.02.02-00.10.59:623][ 59]LogFileHelpers: Loading map 'DevMap' took 0.585
+[2018.02.02-00.11.00:570][107]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.02.02-00.11.01:345][113]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-00.11.01:371][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.11.01:371][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-00.11.01:371][113]PIE: New page: PIE session: DevMap (Feb 2, 2018, 12:11:01 AM)
+[2018.02.02-00.11.01:371][113]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2018.02.02-00.11.01:389][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017318s)
+[2018.02.02-00.11.01:390][113]LogAIModule: Creating AISystem for world DevMap
+[2018.02.02-00.11.01:391][113]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2018.02.02-00.11.01:391][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.019605s)
+[2018.02.02-00.11.01:421][113]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.02-00.11.01:481][113]LogInit: FAudioDevice initialized.
+[2018.02.02-00.11.01:518][113]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.02-00.11.01:523][113]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 60) at 2018.02.02-00.11.01
+[2018.02.02-00.11.01:525][113]LogWorld: Bringing up level for play took: 0.005463
+[2018.02.02-00.11.01:528][113]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DevMap 0.44
+[2018.02.02-00.11.01:528][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.11.11:466][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.11.11:525][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.13.10:778][717]LogActorFactory: Actor Factory created Plant_Bubble_Maker_01
+[2018.02.02-00.13.11:208][734]LogActorFactory: Actor Factory created Plant_Bubble_Maker_01
+[2018.02.02-00.13.12:559][799]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.02.02-00.13.15:531][914]Cmd: DELETE
+[2018.02.02-00.13.15:531][914]Cmd: ACTOR DELETE
+[2018.02.02-00.13.15:532][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.02-00.13.15:551][914]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.02.02-00.16.28:208][647]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.02-00.16.28:239][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.02.02-00.16.28:239][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.02-00.16.28:239][647]PIE: New page: PIE session: DevMap (Feb 2, 2018, 12:16:28 AM)
+[2018.02.02-00.16.28:240][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2018.02.02-00.16.28:254][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014639s)
+[2018.02.02-00.16.28:255][647]LogAIModule: Creating AISystem for world DevMap
+[2018.02.02-00.16.28:255][647]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.02.02-00.16.28:255][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.015883s)
+[2018.02.02-00.16.28:293][647]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.02-00.16.28:358][647]LogInit: FAudioDevice initialized.
+[2018.02.02-00.16.28:396][647]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.02-00.16.28:402][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 60) at 2018.02.02-00.16.28
+[2018.02.02-00.16.28:403][647]LogWorld: Bringing up level for play took: 0.006108
+[2018.02.02-00.16.28:407][647]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DevMap -0.681
+[2018.02.02-00.16.28:407][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
