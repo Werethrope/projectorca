@@ -1,0 +1,1878 @@
+﻿Log file open, 03/29/18 23:15:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectOrca
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1742833153) SRandInit(-1742833153).
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.345789
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: E:/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.29-22.15.46:507][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.29-22.15.46:507][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.29-22.15.46:521][  0]LogInit: Computer: WERETHROPE-D
+[2018.03.29-22.15.46:521][  0]LogInit: User: Werethrope
+[2018.03.29-22.15.46:521][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.03.29-22.15.46:521][  0]LogInit: High frequency timer resolution =3.710935 MHz
+[2018.03.29-22.15.46:521][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.03.29-22.15.46:521][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.29-22.15.46:521][  0]LogMemory: Process Physical Memory: 280.75 MB used, 280.75 MB peak
+[2018.03.29-22.15.46:521][  0]LogMemory: Process Virtual Memory: 285.12 MB used, 285.12 MB peak
+[2018.03.29-22.15.46:521][  0]LogMemory: Physical Memory: 10963.04 MB used,  21751.58 MB free, 32714.62 MB total
+[2018.03.29-22.15.46:521][  0]LogMemory: Virtual Memory: 727.16 MB used,  21751.58 MB free, 134217728.00 MB total
+[2018.03.29-22.15.47:843][  0]LogInit: Using OS detected language (en-GB).
+[2018.03.29-22.15.47:843][  0]LogInit: Using OS detected locale (en-MY).
+[2018.03.29-22.15.47:847][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.03.29-22.15.48:565][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.29-22.15.48:641][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.03.29-22.15.48:641][  0]LogD3D11RHI:       11127/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.29-22.15.48:644][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.29-22.15.48:644][  0]LogD3D11RHI:       0/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.29-22.15.48:644][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.29-22.15.48:656][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.29-22.15.48:656][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.29-22.15.48:656][  0]LogWindows: EnumDisplayDevices:
+[2018.03.29-22.15.48:656][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.03.29-22.15.48:656][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2018.03.29-22.15.48:657][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.03.29-22.15.48:657][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.03.29-22.15.48:657][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.29-22.15.48:657][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.03.29-22.15.48:657][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.29-22.15.48:657][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.29-22.15.48:657][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.03.29-22.15.48:702][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.29-22.15.48:781][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.03.29-22.15.48:873][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../Game Projects/projectorca/Intermediate/Shaders/WorkingDirectory/33776/).
+[2018.03.29-22.15.48:873][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Werethrope/AppData/Local/Temp/UnrealShaderWorkingDir/7E7E0A614D502A32A2593195C33EB426/'.
+[2018.03.29-22.15.48:873][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.29-22.15.49:960][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.29-22.15.50:010][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.29-22.15.50:062][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.29-22.15.50:113][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.29-22.15.50:162][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.29-22.15.50:212][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.29-22.15.50:260][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.29-22.15.50:309][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.29-22.15.50:351][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.29-22.15.50:397][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.29-22.15.50:445][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.29-22.15.50:490][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.29-22.15.50:536][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.29-22.15.50:584][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.29-22.15.50:630][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.29-22.15.50:723][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.29-22.15.50:723][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.29-22.15.50:756][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.29-22.15.50:843][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.29-22.15.50:871][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.29-22.15.50:917][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.29-22.15.50:963][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.29-22.15.51:009][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.29-22.15.51:055][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.29-22.15.51:055][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.29-22.15.51:544][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.29-22.15.51:637][  0]LogDerivedDataCache: Loaded boot cache 0.09s 93MB C:/Users/Werethrope/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.03.29-22.15.51:637][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Werethrope/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.03.29-22.15.51:637][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game Projects/projectorca/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.29-22.15.51:637][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.29-22.15.51:637][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game Projects/projectorca/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.29-22.15.51:637][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.29-22.15.51:655][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.29-22.15.51:668][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Werethrope/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.29-22.15.51:678][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.29-22.15.51:679][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.29-22.15.51:679][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.29-22.15.51:679][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.29-22.15.52:181][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.03.29-22.15.52:316][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.29-22.15.52:489][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.03.29-22.15.52:776][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.29-22.15.52:813][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.29-22.15.52:813][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.29-22.15.52:813][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.29-22.15.52:813][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.29-22.15.52:813][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.29-22.15.53:187][  0]LogNetVersion: ProjectOrca , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 811679591)
+[2018.03.29-22.15.53:415][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.055914 seconds
+[2018.03.29-22.15.53:422][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.03.29-22.15.53:423][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.03.29-22.15.53:423][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.29-22.15.53:476][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.29-22.16.05:696][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.29-22.16.05:750][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.29-22.16.06:624][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.29-22.16.07:055][  0]SourceControl: Source control is disabled
+[2018.03.29-22.16.07:055][  0]SourceControl: Source control is disabled
+[2018.03.29-22.16.07:116][  0]SourceControl: Source control is disabled
+[2018.03.29-22.16.07:172][  0]SourceControl: Source control is disabled
+[2018.03.29-22.16.07:946][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.29-22.16.08:248][  0]LogOcInput: OculusInput pre-init called
+[2018.03.29-22.16.08:554][  0]LogEngine: Initializing Engine...
+[2018.03.29-22.16.08:556][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.29-22.16.08:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.29-22.16.08:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.29-22.16.08:881][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.29-22.16.08:986][  0]LogInit: XAudio2 using 'Headphones (2- STRIX SOUND CARD)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2018.03.29-22.16.09:066][  0]LogInit: FAudioDevice initialized.
+[2018.03.29-22.16.09:136][  0]LogDerivedDataCache: Saved boot cache 0.07s 93MB C:/Users/Werethrope/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.03.29-22.16.09:152][  0]LogInit: Texture streaming: Enabled
+[2018.03.29-22.16.09:254][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.29-22.16.09:498][  0]LogInit: Transaction tracking system initialized
+[2018.03.29-22.16.09:776][  0]BlueprintLog: New page: Editor Load
+[2018.03.29-22.16.10:610][  0]LocalizationService: Localization service is disabled
+[2018.03.29-22.16.11:340][  0]LogConsoleResponse: Display: 
+[2018.03.29-22.16.11:546][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.29-22.16.11:546][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.29-22.16.11:547][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.29-22.16.12:772][  0]LogFileCache: Scanning file cache for directory 'E:/Game Projects/projectorca/Content/' took 0.07s
+[2018.03.29-22.16.12:813][  0]SourceControl: Source control is disabled
+[2018.03.29-22.16.12:814][  0]Cmd: MAP LOAD FILE="../../../../../Game Projects/projectorca/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.29-22.16.12:814][  0]LightingResults: New page: Lighting Build
+[2018.03.29-22.16.12:850][  0]MapCheck: New page: Map Check
+[2018.03.29-22.16.12:850][  0]LightingResults: New page: Lighting Build
+[2018.03.29-22.16.13:703][  0]LogAIModule: Creating AISystem for world DevMap
+[2018.03.29-22.16.13:738][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.29-22.16.13:770][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.29-22.16.13:826][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.812ms to complete.
+[2018.03.29-22.16.13:826][  0]LogFileHelpers: Loading map 'DevMap' took 1.013
+[2018.03.29-22.16.13:889][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-22.16.13:889][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.29-22.16.13:987][  0]LogCollectionManager: Loaded 0 collections in 0.003418 seconds
+[2018.03.29-22.16.14:071][  0]LogFileCache: Scanning file cache for directory 'E:/Game Projects/projectorca/Saved/Collections/' took 0.01s
+[2018.03.29-22.16.14:071][  0]LogFileCache: Scanning file cache for directory 'E:/Game Projects/projectorca/Content/Developers/Werethrope/Collections/' took 0.01s
+[2018.03.29-22.16.14:071][  0]LogFileCache: Scanning file cache for directory 'E:/Game Projects/projectorca/Content/Collections/' took 0.01s
+[2018.03.29-22.16.14:071][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.29-22.16.14:082][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2386 classes and 500 folders.
+[2018.03.29-22.16.14:141][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.03.29-22.16.14:564][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.03.29-22.16.14:603][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.03.29-22.16.14:688][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.03.29-22.16.14:688][  0]LogLoad: (Engine Initialization) Total time: 30.87 seconds
+[2018.03.29-22.16.14:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.29-22.16.14:688][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.29-22.16.14:730][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.29-22.16.14:731][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.29-22.16.14:733][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.29-22.16.14:738][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.29-22.16.15:005][  3]LogRenderer: Reallocating scene render targets to support 588x264 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-22.16.15:030][  3]LogRenderer: Reallocating scene render targets to support 1180x528 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-22.16.15:100][  3]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.29-22.16.15:119][  4]LogAssetRegistry: Asset discovery search completed in 22.9603 seconds
+[2018.03.29-22.16.15:123][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.29-22.16.15:123][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.03.29-22.16.19:823][439]LogFileCache: Retrieving MD5 hashes for directory 'E:/Game Projects/projectorca/Content/' took 5.11s
+[2018.03.29-22.16.40:681][212]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.29-22.16.42:196][301]AssetReimport: New page: Outstanding source content changes 12:16:42 AM
+[2018.03.29-22.16.42:233][301]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Game Projects/projectorca/Content/Assets_Character/Protaganist/Protagonist_Rig_Export.fbx)
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: NodeAttribute, ItemCount : 474
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: Model, ItemCount : 558
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: Geometry, ItemCount : 84
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: Material, ItemCount : 15
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: AnimationCurveNode, ItemCount : 482
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: CollectionExclusive, ItemCount : 4
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: Pose, ItemCount : 28
+[2018.03.29-22.16.42:599][301]LogFbx: ItemName: Deformer, ItemCount : 397
+[2018.03.29-22.16.42:604][301]LogFbx: Loading FBX Scene from E:/Game Projects/projectorca/Content/Assets_Character/Protaganist/Protagonist_Rig_Export.fbx
+[2018.03.29-22.16.43:544][301]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.29-22.17.28:893][301]LogFbx: Loading FBX Scene from E:/Game Projects/projectorca/Content/Assets_Character/Protaganist/Protagonist_Rig_Export.fbx
+[2018.03.29-22.17.29:833][301]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard] 
+[2018.03.29-22.17.29:889][301]LogFbx: 	Total Deformer Count -2113151744.
+[2018.03.29-22.17.29:889][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:889][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard (Type Mesh).
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard]
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair] 
+[2018.03.29-22.17.29:889][301]LogFbx: 	Total Deformer Count -2113151744.
+[2018.03.29-22.17.29:889][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:889][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair (Type Mesh).
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair]
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand] 
+[2018.03.29-22.17.29:889][301]LogFbx: 	Total Deformer Count -2113151744.
+[2018.03.29-22.17.29:889][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:889][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand (Type Mesh).
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand]
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long] 
+[2018.03.29-22.17.29:889][301]LogFbx: 	Total Deformer Count 211889664.
+[2018.03.29-22.17.29:889][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:889][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long (Type Mesh).
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long]
+[2018.03.29-22.17.29:889][301]LogFbx: =================================================
+[2018.03.29-22.17.29:889][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short] 
+[2018.03.29-22.17.29:889][301]LogFbx: 	Total Deformer Count 211889664.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short (Type Mesh).
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short]
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants] 
+[2018.03.29-22.17.29:890][301]LogFbx: 	Total Deformer Count -2113152864.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants (Type Mesh).
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants]
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1] 
+[2018.03.29-22.17.29:890][301]LogFbx: 	Total Deformer Count -2113152864.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1 (Type Mesh).
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1]
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2] 
+[2018.03.29-22.17.29:890][301]LogFbx: 	Total Deformer Count -2113152864.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2 (Type Mesh).
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2]
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth] 
+[2018.03.29-22.17.29:890][301]LogFbx: 	Total Deformer Count -2113152864.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth (Type Mesh).
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth]
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant] 
+[2018.03.29-22.17.29:890][301]LogFbx: 	Total Deformer Count 219642880.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant (Type Mesh).
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant]
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band] 
+[2018.03.29-22.17.29:890][301]LogFbx: 	Total Deformer Count -2113154656.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band (Type Mesh).
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band]
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather] 
+[2018.03.29-22.17.29:890][301]LogFbx: 	Total Deformer Count -2113154656.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather (Type Mesh).
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather]
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:890][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1] 
+[2018.03.29-22.17.29:890][301]LogFbx: 	Total Deformer Count -2113154656.
+[2018.03.29-22.17.29:890][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:890][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1 (Type Mesh).
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1]
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2] 
+[2018.03.29-22.17.29:891][301]LogFbx: 	Total Deformer Count -2113154656.
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2 (Type Mesh).
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2]
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle] 
+[2018.03.29-22.17.29:891][301]LogFbx: 	Total Deformer Count 219641600.
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle (Type Mesh).
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle]
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap] 
+[2018.03.29-22.17.29:891][301]LogFbx: 	Total Deformer Count 219641600.
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap (Type Mesh).
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap]
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt] 
+[2018.03.29-22.17.29:891][301]LogFbx: 	Total Deformer Count -2113151744.
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt (Type Mesh).
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt]
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag] 
+[2018.03.29-22.17.29:891][301]LogFbx: 	Total Deformer Count 219664384.
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag (Type Mesh).
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag]
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body] 
+[2018.03.29-22.17.29:891][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body (Type Mesh).
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body]
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L] 
+[2018.03.29-22.17.29:891][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L (Type Mesh).
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L]
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R] 
+[2018.03.29-22.17.29:891][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:891][301]LogFbx: =================================================
+[2018.03.29-22.17.29:891][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:891][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R (Type Mesh).
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R]
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L] 
+[2018.03.29-22.17.29:892][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L (Type Mesh).
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L]
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R] 
+[2018.03.29-22.17.29:892][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R (Type Mesh).
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R]
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L] 
+[2018.03.29-22.17.29:892][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L (Type Mesh).
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L]
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R] 
+[2018.03.29-22.17.29:892][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R (Type Mesh).
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R]
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes] 
+[2018.03.29-22.17.29:892][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes (Type Mesh).
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes]
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth] 
+[2018.03.29-22.17.29:892][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth (Type Mesh).
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth]
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth] 
+[2018.03.29-22.17.29:892][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:892][301]LogFbx: =================================================
+[2018.03.29-22.17.29:892][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:892][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth (Type Mesh).
+[2018.03.29-22.17.29:892][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth]
+[2018.03.29-22.17.29:893][301]LogFbx: =================================================
+[2018.03.29-22.17.29:893][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard] 
+[2018.03.29-22.17.29:893][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:893][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:893][301]LogFbx: =================================================
+[2018.03.29-22.17.29:893][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:893][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard (Type Mesh).
+[2018.03.29-22.17.29:893][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard]
+[2018.03.29-22.17.29:893][301]LogFbx: =================================================
+[2018.03.29-22.17.29:893][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair] 
+[2018.03.29-22.17.29:893][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:893][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:893][301]LogFbx: =================================================
+[2018.03.29-22.17.29:893][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:893][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair (Type Mesh).
+[2018.03.29-22.17.29:893][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair]
+[2018.03.29-22.17.29:893][301]LogFbx: =================================================
+[2018.03.29-22.17.29:893][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count -2113156672.
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand (Type Mesh).
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand]
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count 219637504.
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long (Type Mesh).
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long]
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count 219637504.
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short (Type Mesh).
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short]
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count -2113157792.
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants (Type Mesh).
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants]
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count -2113157792.
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1 (Type Mesh).
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1]
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count -2113157792.
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2 (Type Mesh).
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2]
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count -2113157792.
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth (Type Mesh).
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth]
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count 219635968.
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:894][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant (Type Mesh).
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant]
+[2018.03.29-22.17.29:894][301]LogFbx: =================================================
+[2018.03.29-22.17.29:894][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band] 
+[2018.03.29-22.17.29:894][301]LogFbx: 	Total Deformer Count 861512928.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band (Type Mesh).
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band]
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather] 
+[2018.03.29-22.17.29:895][301]LogFbx: 	Total Deformer Count 861512928.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather (Type Mesh).
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather]
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1] 
+[2018.03.29-22.17.29:895][301]LogFbx: 	Total Deformer Count 861512928.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1 (Type Mesh).
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1]
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2] 
+[2018.03.29-22.17.29:895][301]LogFbx: 	Total Deformer Count 861512928.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2 (Type Mesh).
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2]
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle] 
+[2018.03.29-22.17.29:895][301]LogFbx: 	Total Deformer Count 219634688.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle (Type Mesh).
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle]
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap] 
+[2018.03.29-22.17.29:895][301]LogFbx: 	Total Deformer Count 219634688.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap (Type Mesh).
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap]
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt] 
+[2018.03.29-22.17.29:895][301]LogFbx: 	Total Deformer Count 861507552.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt (Type Mesh).
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt]
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag] 
+[2018.03.29-22.17.29:895][301]LogFbx: 	Total Deformer Count 219607872.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag (Type Mesh).
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag]
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:895][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body] 
+[2018.03.29-22.17.29:895][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:895][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:895][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body (Type Mesh).
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body]
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L] 
+[2018.03.29-22.17.29:896][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L (Type Mesh).
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L]
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R] 
+[2018.03.29-22.17.29:896][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R (Type Mesh).
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R]
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L] 
+[2018.03.29-22.17.29:896][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L (Type Mesh).
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L]
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R] 
+[2018.03.29-22.17.29:896][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R (Type Mesh).
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R]
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L] 
+[2018.03.29-22.17.29:896][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L (Type Mesh).
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L]
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R] 
+[2018.03.29-22.17.29:896][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R (Type Mesh).
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R]
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes] 
+[2018.03.29-22.17.29:896][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes (Type Mesh).
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes]
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth] 
+[2018.03.29-22.17.29:896][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:896][301]LogFbx: =================================================
+[2018.03.29-22.17.29:896][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:896][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth (Type Mesh).
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth]
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth] 
+[2018.03.29-22.17.29:897][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth (Type Mesh).
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth]
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard] 
+[2018.03.29-22.17.29:897][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard (Type Mesh).
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard]
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair] 
+[2018.03.29-22.17.29:897][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair (Type Mesh).
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair]
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand] 
+[2018.03.29-22.17.29:897][301]LogFbx: 	Total Deformer Count 861514272.
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand (Type Mesh).
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand]
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard] 
+[2018.03.29-22.17.29:897][301]LogFbx: 	Total Deformer Count 861511136.
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard (Type Mesh).
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard]
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair] 
+[2018.03.29-22.17.29:897][301]LogFbx: 	Total Deformer Count 861511136.
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair (Type Mesh).
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair]
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand] 
+[2018.03.29-22.17.29:897][301]LogFbx: 	Total Deformer Count 861511136.
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:897][301]LogFbx: =================================================
+[2018.03.29-22.17.29:897][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:897][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand (Type Mesh).
+[2018.03.29-22.17.29:897][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand]
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long] 
+[2018.03.29-22.17.29:898][301]LogFbx: 	Total Deformer Count 219629824.
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long (Type Mesh).
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long]
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short] 
+[2018.03.29-22.17.29:898][301]LogFbx: 	Total Deformer Count 219629824.
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short (Type Mesh).
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short]
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants] 
+[2018.03.29-22.17.29:898][301]LogFbx: 	Total Deformer Count 861510464.
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants (Type Mesh).
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants]
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1] 
+[2018.03.29-22.17.29:898][301]LogFbx: 	Total Deformer Count 861510464.
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1 (Type Mesh).
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1]
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2] 
+[2018.03.29-22.17.29:898][301]LogFbx: 	Total Deformer Count 861510464.
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2 (Type Mesh).
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2]
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth] 
+[2018.03.29-22.17.29:898][301]LogFbx: 	Total Deformer Count 861510464.
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth (Type Mesh).
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth]
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant] 
+[2018.03.29-22.17.29:898][301]LogFbx: 	Total Deformer Count 219628288.
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant (Type Mesh).
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant]
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band] 
+[2018.03.29-22.17.29:898][301]LogFbx: 	Total Deformer Count 219544480.
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:898][301]LogFbx: =================================================
+[2018.03.29-22.17.29:898][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:898][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band (Type Mesh).
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band]
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather] 
+[2018.03.29-22.17.29:899][301]LogFbx: 	Total Deformer Count 219544480.
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather (Type Mesh).
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather]
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1] 
+[2018.03.29-22.17.29:899][301]LogFbx: 	Total Deformer Count 219544480.
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1 (Type Mesh).
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1]
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2] 
+[2018.03.29-22.17.29:899][301]LogFbx: 	Total Deformer Count 219544480.
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2 (Type Mesh).
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2]
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle] 
+[2018.03.29-22.17.29:899][301]LogFbx: 	Total Deformer Count 219561216.
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle (Type Mesh).
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle]
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap] 
+[2018.03.29-22.17.29:899][301]LogFbx: 	Total Deformer Count 219561216.
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap (Type Mesh).
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap]
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt] 
+[2018.03.29-22.17.29:899][301]LogFbx: 	Total Deformer Count 219544704.
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt (Type Mesh).
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt]
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag] 
+[2018.03.29-22.17.29:899][301]LogFbx: 	Total Deformer Count 219600192.
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag (Type Mesh).
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag]
+[2018.03.29-22.17.29:899][301]LogFbx: =================================================
+[2018.03.29-22.17.29:899][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long] 
+[2018.03.29-22.17.29:899][301]LogFbx: 	Total Deformer Count 219560960.
+[2018.03.29-22.17.29:899][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long (Type Mesh).
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long]
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short] 
+[2018.03.29-22.17.29:900][301]LogFbx: 	Total Deformer Count 219560960.
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short (Type Mesh).
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short]
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants] 
+[2018.03.29-22.17.29:900][301]LogFbx: 	Total Deformer Count 219541344.
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants (Type Mesh).
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants]
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long] 
+[2018.03.29-22.17.29:900][301]LogFbx: 	Total Deformer Count 219560192.
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long (Type Mesh).
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long]
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short] 
+[2018.03.29-22.17.29:900][301]LogFbx: 	Total Deformer Count 219560192.
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short (Type Mesh).
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short]
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants] 
+[2018.03.29-22.17.29:900][301]LogFbx: 	Total Deformer Count 219540672.
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants (Type Mesh).
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants]
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1] 
+[2018.03.29-22.17.29:900][301]LogFbx: 	Total Deformer Count 219540448.
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1 (Type Mesh).
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1]
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2] 
+[2018.03.29-22.17.29:900][301]LogFbx: 	Total Deformer Count 219540448.
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:900][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2 (Type Mesh).
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2]
+[2018.03.29-22.17.29:900][301]LogFbx: =================================================
+[2018.03.29-22.17.29:900][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth] 
+[2018.03.29-22.17.29:901][301]LogFbx: 	Total Deformer Count 219540448.
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth (Type Mesh).
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth]
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant] 
+[2018.03.29-22.17.29:901][301]LogFbx: 	Total Deformer Count 219558144.
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant (Type Mesh).
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant]
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1] 
+[2018.03.29-22.17.29:901][301]LogFbx: 	Total Deformer Count 219540672.
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1 (Type Mesh).
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1]
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2] 
+[2018.03.29-22.17.29:901][301]LogFbx: 	Total Deformer Count 219540672.
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2 (Type Mesh).
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2]
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth] 
+[2018.03.29-22.17.29:901][301]LogFbx: 	Total Deformer Count 219540672.
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth (Type Mesh).
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth]
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant] 
+[2018.03.29-22.17.29:901][301]LogFbx: 	Total Deformer Count 219557120.
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant (Type Mesh).
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant]
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band] 
+[2018.03.29-22.17.29:901][301]LogFbx: 	Total Deformer Count 219536864.
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band (Type Mesh).
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band]
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather] 
+[2018.03.29-22.17.29:901][301]LogFbx: 	Total Deformer Count 219536864.
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:901][301]LogFbx: =================================================
+[2018.03.29-22.17.29:901][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:901][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather (Type Mesh).
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather]
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1] 
+[2018.03.29-22.17.29:902][301]LogFbx: 	Total Deformer Count 219536864.
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1 (Type Mesh).
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1]
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2] 
+[2018.03.29-22.17.29:902][301]LogFbx: 	Total Deformer Count 219536864.
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2 (Type Mesh).
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2]
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band] 
+[2018.03.29-22.17.29:902][301]LogFbx: 	Total Deformer Count 219537088.
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band (Type Mesh).
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band]
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather] 
+[2018.03.29-22.17.29:902][301]LogFbx: 	Total Deformer Count 219537088.
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather (Type Mesh).
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather]
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1] 
+[2018.03.29-22.17.29:902][301]LogFbx: 	Total Deformer Count 219537088.
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1 (Type Mesh).
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1]
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2] 
+[2018.03.29-22.17.29:902][301]LogFbx: 	Total Deformer Count 219537088.
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2 (Type Mesh).
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2]
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle] 
+[2018.03.29-22.17.29:902][301]LogFbx: 	Total Deformer Count 219554816.
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle (Type Mesh).
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle]
+[2018.03.29-22.17.29:902][301]LogFbx: =================================================
+[2018.03.29-22.17.29:902][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap] 
+[2018.03.29-22.17.29:902][301]LogFbx: 	Total Deformer Count 219554816.
+[2018.03.29-22.17.29:902][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap (Type Mesh).
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap]
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle] 
+[2018.03.29-22.17.29:903][301]LogFbx: 	Total Deformer Count 219554816.
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle (Type Mesh).
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle]
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap] 
+[2018.03.29-22.17.29:903][301]LogFbx: 	Total Deformer Count 219554816.
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap (Type Mesh).
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap]
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt] 
+[2018.03.29-22.17.29:903][301]LogFbx: 	Total Deformer Count 219533056.
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt (Type Mesh).
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt]
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag] 
+[2018.03.29-22.17.29:903][301]LogFbx: 	Total Deformer Count 219597120.
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag (Type Mesh).
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag]
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body] 
+[2018.03.29-22.17.29:903][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body (Type Mesh).
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body]
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L] 
+[2018.03.29-22.17.29:903][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L (Type Mesh).
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L]
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R] 
+[2018.03.29-22.17.29:903][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:903][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:903][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R (Type Mesh).
+[2018.03.29-22.17.29:903][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R]
+[2018.03.29-22.17.29:903][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L] 
+[2018.03.29-22.17.29:904][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L (Type Mesh).
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L]
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R] 
+[2018.03.29-22.17.29:904][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R (Type Mesh).
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R]
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L] 
+[2018.03.29-22.17.29:904][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L (Type Mesh).
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L]
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R] 
+[2018.03.29-22.17.29:904][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R (Type Mesh).
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R]
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes] 
+[2018.03.29-22.17.29:904][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes (Type Mesh).
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes]
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body] 
+[2018.03.29-22.17.29:904][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body (Type Mesh).
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body]
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L] 
+[2018.03.29-22.17.29:904][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:904][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L (Type Mesh).
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L]
+[2018.03.29-22.17.29:904][301]LogFbx: =================================================
+[2018.03.29-22.17.29:904][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R] 
+[2018.03.29-22.17.29:904][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R (Type Mesh).
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R]
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L] 
+[2018.03.29-22.17.29:905][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L (Type Mesh).
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L]
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R] 
+[2018.03.29-22.17.29:905][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R (Type Mesh).
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R]
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L] 
+[2018.03.29-22.17.29:905][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L (Type Mesh).
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L]
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R] 
+[2018.03.29-22.17.29:905][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R (Type Mesh).
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R]
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes] 
+[2018.03.29-22.17.29:905][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes (Type Mesh).
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes]
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth] 
+[2018.03.29-22.17.29:905][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth (Type Mesh).
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth]
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:905][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth] 
+[2018.03.29-22.17.29:905][301]LogFbx: 	Total Deformer Count 219532608.
+[2018.03.29-22.17.29:905][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:905][301]LogFbx: =================================================
+[2018.03.29-22.17.29:906][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:906][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth (Type Mesh).
+[2018.03.29-22.17.29:906][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth]
+[2018.03.29-22.17.29:906][301]LogFbx: =================================================
+[2018.03.29-22.17.29:906][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth] 
+[2018.03.29-22.17.29:906][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:906][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:906][301]LogFbx: =================================================
+[2018.03.29-22.17.29:906][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:906][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth (Type Mesh).
+[2018.03.29-22.17.29:906][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth]
+[2018.03.29-22.17.29:906][301]LogFbx: =================================================
+[2018.03.29-22.17.29:906][301]LogFbx: Dumping Node START [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth] 
+[2018.03.29-22.17.29:906][301]LogFbx: 	Total Deformer Count 219532832.
+[2018.03.29-22.17.29:906][301]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.29-22.17.29:906][301]LogFbx: =================================================
+[2018.03.29-22.17.29:906][301]LogFbx: 	Attribute () Type (4).
+[2018.03.29-22.17.29:906][301]LogFbx: 		[Node Attribute Child 1] Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth (Type Mesh).
+[2018.03.29-22.17.29:906][301]LogFbx: Dumping Node END [Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth]
+[2018.03.29-22.17.29:919][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster19) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:920][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster20) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:920][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster21) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:920][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster22) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:920][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster23) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:920][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster24) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:920][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster25) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:920][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster26) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:920][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster27) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster28) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster29) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster30) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster31) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster32) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster33) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster34) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster35) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.29:921][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster36) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:032][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster38) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:032][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster39) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:032][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster40) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:032][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster41) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:033][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster42) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:034][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster43) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:034][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster44) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:034][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster45) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:035][301]LogFbx: Valid bind pose for Pose (Protaganist_Rig_Fix_Skinning_Pass03:skinCluster46) - Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:045][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Beard
+[2018.03.29-22.17.30:488][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Hair
+[2018.03.29-22.17.31:287][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_HairBand
+[2018.03.29-22.17.31:307][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Long
+[2018.03.29-22.17.31:311][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants_String_Short
+[2018.03.29-22.17.31:316][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Pants
+[2018.03.29-22.17.31:872][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band1
+[2018.03.29-22.17.31:907][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Band2
+[2018.03.29-22.17.31:939][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Teeth
+[2018.03.29-22.17.31:940][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protaganist_Necklaces_Pendant
+[2018.03.29-22.17.31:979][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Band
+[2018.03.29-22.17.32:006][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Feather
+[2018.03.29-22.17.32:009][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth1
+[2018.03.29-22.17.32:010][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Armband_Tooth2
+[2018.03.29-22.17.32:011][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_LowerBundle
+[2018.03.29-22.17.32:346][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Rope_ShoulderStrap
+[2018.03.29-22.17.32:377][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Shirt
+[2018.03.29-22.17.32:713][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Bag
+[2018.03.29-22.17.32:755][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Body
+[2018.03.29-22.17.34:774][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_L
+[2018.03.29-22.17.34:812][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_EyeGlass_R
+[2018.03.29-22.17.34:850][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_L
+[2018.03.29-22.17.34:883][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eye_R
+[2018.03.29-22.17.34:915][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_L
+[2018.03.29-22.17.34:933][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyebrow_R
+[2018.03.29-22.17.34:951][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_Eyelashes
+[2018.03.29-22.17.34:966][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_UpperTeeth
+[2018.03.29-22.17.34:987][301]LogFbx: Triangulating skeletal mesh Protaganist_Rig_Fix_Skinning_Pass03:model:Protagonist_LowerTeeth
+[2018.03.29-22.17.36:848][301]LogSkeletalMesh: Section 0: 10549 vertices, 48 active bones
+[2018.03.29-22.17.36:849][301]LogSkeletalMesh: Section 1: 169 vertices, 1 active bones
+[2018.03.29-22.17.36:849][301]LogSkeletalMesh: Section 2: 4634 vertices, 13 active bones
+[2018.03.29-22.17.36:849][301]LogSkeletalMesh: Section 3: 809 vertices, 7 active bones
+[2018.03.29-22.17.36:849][301]LogSkeletalMesh: Section 4: 451 vertices, 5 active bones
+[2018.03.29-22.17.36:849][301]LogSkeletalMesh: Section 5: 36 vertices, 2 active bones
+[2018.03.29-22.17.36:849][301]LogSkeletalMesh: Section 6: 3355 vertices, 7 active bones
+[2018.03.29-22.17.36:849][301]LogSkeletalMesh: Section 7: 2864 vertices, 13 active bones
+[2018.03.29-22.17.36:849][301]LogSkeletalMesh: Section 8: 344 vertices, 8 active bones
+[2018.03.29-22.17.36:851][301]LogSkeletalMesh: Section 9: 16826 vertices, 169 active bones
+[2018.03.29-22.17.36:851][301]LogSkeletalMesh: Section 10: 652 vertices, 2 active bones
+[2018.03.29-22.17.36:851][301]LogSkeletalMesh: Section 11: 482 vertices, 4 active bones
+[2018.03.29-22.17.36:851][301]LogSkeletalMesh: Section 12: 98 vertices, 4 active bones
+[2018.03.29-22.17.36:851][301]LogSkeletalMesh: Section 13: 64 vertices, 2 active bones
+[2018.03.29-22.17.36:851][301]LogSkeletalMesh: Section 14: 7320 vertices, 2 active bones
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 0: Material=0, 19949 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 1: Material=1, 288 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 2: Material=2, 8700 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 3: Material=3, 1424 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 4: Material=4, 694 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 5: Material=5, 50 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 6: Material=6, 5661 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 7: Material=7, 5224 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 8: Material=8, 608 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 9: Material=9, 31264 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 10: Material=10, 1224 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 11: Material=11, 864 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 12: Material=12, 160 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 13: Material=13, 64 triangles
+[2018.03.29-22.17.37:046][301]LogSkeletalMesh: Section 14: Material=14, 14426 triangles
+[2018.03.29-22.17.37:103][301]LogLinker: Can't find file '/Game/Assets_Character/Protaganist/Protagonist_Rig_Export_Skeleton'
+[2018.03.29-22.17.37:103][301]LogLinker: Can't find file '/Game/Assets_Character/Protaganist/Protagonist_Rig_Export_Skeleton'
+[2018.03.29-22.17.37:106][301]LogLinker: Can't find file '/Game/Assets_Character/Protaganist/Protagonist_Rig_Export_PhysicsAsset'
+[2018.03.29-22.17.37:106][301]LogLinker: Can't find file '/Game/Assets_Character/Protaganist/Protagonist_Rig_Export_PhysicsAsset'
+[2018.03.29-22.17.37:422][302]LogSavePackage: Save=114.77ms
+[2018.03.29-22.17.37:422][302]LogSavePackage: Moving '../../../../../Game Projects/projectorca/Saved/Protagonist_Rig_Export96A8A5E14D8729D640ADED893C8FFAF8.tmp' to '../../../../../Game Projects/projectorca/Content/Assets_Character/Protaganist/Protagonist_Rig_Export.uasset'
+[2018.03.29-22.17.37:428][302]LogSavePackage: Display: Finished SavePackage ../../../../../Game Projects/projectorca/Content/Assets_Character/Protaganist/Protagonist_Rig_Export.uasset
+[2018.03.29-22.17.40:434][389]AssetReimport: Importing new asset /Game/Assets_Character/Protaganist/Protagonist_Rig_Export.
+[2018.03.29-22.17.47:172][920]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.29-22.17.48:000][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.03.29-22.17.48:000][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-22.17.48:001][920]PIE: New page: PIE session: DevMap (Mar 30, 2018, 12:17:48 AM)
+[2018.03.29-22.17.48:001][920]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2018.03.29-22.17.48:014][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013177s)
+[2018.03.29-22.17.48:015][920]LogAIModule: Creating AISystem for world DevMap
+[2018.03.29-22.17.48:015][920]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2018.03.29-22.17.48:016][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.014783s)
+[2018.03.29-22.17.48:144][920]LogInit: XAudio2 using 'Headphones (2- STRIX SOUND CARD)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2018.03.29-22.17.48:204][920]LogInit: FAudioDevice initialized.
+[2018.03.29-22.17.48:251][920]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.29-22.17.48:256][920]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2018.03.29-23.17.48
+[2018.03.29-22.17.48:259][920]LogWorld: Bringing up level for play took: 0.006596
+[2018.03.29-22.17.48:296][920]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.03.29-22.17.48:298][920]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DevMap 0.271
+[2018.03.29-22.17.48:299][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.03.29-22.17.50:008][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.03.29-22.17.50:065][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.03.29-22.17.51:357][256]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Protagonist_Rig_Export_PhysicsAsset)
+[2018.03.29-22.17.52:376][375]Cmd: DELETE
+[2018.03.29-22.17.52:376][375]Cmd: ACTOR DELETE
+[2018.03.29-22.17.52:377][375]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.03.29-22.17.52:403][375]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.03.29-22.17.55:505][577]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.29-22.17.55:532][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.03.29-22.17.55:532][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-22.17.55:532][577]PIE: New page: PIE session: DevMap (Mar 30, 2018, 12:17:55 AM)
+[2018.03.29-22.17.55:533][577]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2018.03.29-22.17.55:545][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012076s)
+[2018.03.29-22.17.55:546][577]LogAIModule: Creating AISystem for world DevMap
+[2018.03.29-22.17.55:546][577]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.03.29-22.17.55:546][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.013220s)
+[2018.03.29-22.17.55:668][577]LogInit: XAudio2 using 'Headphones (2- STRIX SOUND CARD)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2018.03.29-22.17.55:727][577]LogInit: FAudioDevice initialized.
+[2018.03.29-22.17.55:762][577]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.29-22.17.55:766][577]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2018.03.29-23.17.55
+[2018.03.29-22.17.55:767][577]LogWorld: Bringing up level for play took: 0.004863
+[2018.03.29-22.17.55:769][577]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DevMap -0.259
+[2018.03.29-22.17.55:770][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.03.29-22.17.59:302][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.03.29-22.17.59:355][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DevMap.DevMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap' with GeneratedClass '/Game/Maps/DevMap.DevMap_C' with ClassGeneratedBy '/Game/Maps/DevMap.DevMap:PersistentLevel.DevMap'
+[2018.03.29-22.18.00:876][148]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Protagonist_Rig_Export_PhysicsAsset)
+[2018.03.29-22.18.02:029][283]Cmd: DELETE
+[2018.03.29-22.18.02:029][283]Cmd: ACTOR DELETE
+[2018.03.29-22.18.02:030][283]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.03.29-22.18.02:058][283]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.03.29-22.18.07:921][533]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.03.29-22.18.08:076][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.29-22.18.08:153][533]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.03.29-22.18.08:543][533]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.03.29-22.18.08:549][534]LogRenderer: Reallocating scene render targets to support 1180x668 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-22.18.11:449][652]LogSlate: Took 0.004368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.29-22.18.44:542][270]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.03.29-22.18.44:544][270]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.03.29-22.18.44:685][270]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.03.29-22.18.44:699][270]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.03.29-22.18.44:756][270]LogSlate: Took 0.003785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.29-22.18.46:422][312]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.03.29-22.18.46:422][312]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.03.29-22.18.46:422][312]MaterialEditorStats: Texture samplers: 1/16
+[2018.03.29-22.20.16:649][174]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'SwimUpDown' for  InputAxis SwimUpDown
+[2018.03.29-22.20.16:655][174]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0272.83] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 12 ms] (/Game/ISW/StarterCharacter/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.03.29-22.20.16:987][174]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.03.29-22.20.16:988][174]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.03.29-22.20.19:211][174]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.03.29-22.20.19:211][174]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.03.29-22.20.19:222][174]LogBlueprint: Warning: [Compiler Water] [0275.40] Compile of Water successful, but with 2 Warning(s) [in 56 ms] (/Game/ISW/Water.Water)
+[2018.03.29-22.20.19:357][174]LogLinker: Warning: Can't find file '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1'
+[2018.03.29-22.20.19:357][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.19:358][174]LoadErrors: Error: /Game/Maps/James_LevelDemo : Can't find file for asset. /Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1
+[2018.03.29-22.20.19:371][174]LogLinker: Warning: Can't find file '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1'
+[2018.03.29-22.20.19:371][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.19:373][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_01'
+[2018.03.29-22.20.19:373][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_01' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.19:373][174]LoadErrors: Error: /Game/Maps/James_LevelDemo : Can't find file for asset. /Game/Assets_Foliage/LandFoliage/Ivy_01
+[2018.03.29-22.20.19:373][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_02'
+[2018.03.29-22.20.19:373][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_02' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.19:374][174]LoadErrors: Error: /Game/Maps/James_LevelDemo : Can't find file for asset. /Game/Assets_Foliage/LandFoliage/Ivy_02
+[2018.03.29-22.20.19:374][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_03'
+[2018.03.29-22.20.19:374][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_03' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.19:374][174]LoadErrors: Error: /Game/Maps/James_LevelDemo : Can't find file for asset. /Game/Assets_Foliage/LandFoliage/Ivy_03
+[2018.03.29-22.20.19:374][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_04'
+[2018.03.29-22.20.19:374][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_04' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.19:374][174]LoadErrors: Error: /Game/Maps/James_LevelDemo : Can't find file for asset. /Game/Assets_Foliage/LandFoliage/Ivy_04
+[2018.03.29-22.20.20:494][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_01'
+[2018.03.29-22.20.20:494][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_01' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.20:494][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_02'
+[2018.03.29-22.20.20:494][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_02' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.20:494][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_03'
+[2018.03.29-22.20.20:494][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_03' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.20:494][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_04'
+[2018.03.29-22.20.20:494][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_04' while loading ../../../../../Game Projects/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.03.29-22.20.20:550][174]LogLinker: Warning: Can't find file '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1'
+[2018.03.29-22.20.20:550][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1' while loading NULL.
+[2018.03.29-22.20.20:550][174]LogLinker: Warning: Can't find file '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1'
+[2018.03.29-22.20.20:550][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1' while loading NULL.
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_01'
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_01' while loading NULL.
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_02'
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_02' while loading NULL.
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_03'
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_03' while loading NULL.
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_04'
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_04' while loading NULL.
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_01'
+[2018.03.29-22.20.20:551][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_01' while loading NULL.
+[2018.03.29-22.20.20:552][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_02'
+[2018.03.29-22.20.20:552][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_02' while loading NULL.
+[2018.03.29-22.20.20:552][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_03'
+[2018.03.29-22.20.20:552][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_03' while loading NULL.
+[2018.03.29-22.20.20:552][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_04'
+[2018.03.29-22.20.20:552][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_04' while loading NULL.
+[2018.03.29-22.20.21:025][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_01'
+[2018.03.29-22.20.21:025][174]LoadErrors: Failed to load /Game/Assets_Foliage/LandFoliage/Ivy_01.Ivy_01 Referenced by Ivy_01
+[2018.03.29-22.20.21:025][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_01' while loading NULL.
+[2018.03.29-22.20.21:025][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_02'
+[2018.03.29-22.20.21:025][174]LoadErrors: Failed to load /Game/Assets_Foliage/LandFoliage/Ivy_02.Ivy_02 Referenced by Ivy_02
+[2018.03.29-22.20.21:025][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_02' while loading NULL.
+[2018.03.29-22.20.21:026][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_03'
+[2018.03.29-22.20.21:026][174]LoadErrors: Failed to load /Game/Assets_Foliage/LandFoliage/Ivy_03.Ivy_03 Referenced by Ivy_03
+[2018.03.29-22.20.21:026][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_03' while loading NULL.
+[2018.03.29-22.20.21:026][174]LogLinker: Warning: Can't find file '/Game/Assets_Foliage/LandFoliage/Ivy_04'
+[2018.03.29-22.20.21:026][174]LoadErrors: Failed to load /Game/Assets_Foliage/LandFoliage/Ivy_04.Ivy_04 Referenced by Ivy_04
+[2018.03.29-22.20.21:026][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Foliage/LandFoliage/Ivy_04' while loading NULL.
+[2018.03.29-22.20.21:060][174]LogLinker: Warning: Can't find file '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1'
+[2018.03.29-22.20.21:060][174]LoadErrors: Failed to load /Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1.OceanWater_Inst1 Referenced by Water_Texutre_Plane2
+[2018.03.29-22.20.21:060][174]LogLinker: Warning: Can't find file for asset '/Game/Assets_Environments/LandscapeAutoMaterial/Materials/Water/OceanWater_Inst1' while loading NULL.
+[2018.03.29-22.20.22:357][174]LogAIModule: Creating AISystem for world James_LevelDemo
+[2018.03.29-22.20.22:572][174]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.202 s
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: 
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 759]
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: Nans found on Bounds for Primitive ParticleSystemComponent0: Origin X=3878493952166138908041451527718567936.000 Y=-835650487477651560219444713422323712.000 Z=-2170686382943838094654884106525999104.000, BoxExtent X=3878205878567237042909961401915146240.000 Y=1688250097305654661651601097052127232.000 Z=2170765294193702301935127276300533760.000, SphereRadius inf
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: Stack: 
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF293E36
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF01C2D2
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF034746
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000D5977D29
+[2018.03.29-22.20.22:572][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DBF2D7A4
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DC555724
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DBE5DE2C
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DBE8A85F
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DBA5DB01
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DC2D16CE
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DCC13837
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D9F17476
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D9F04B3F
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E0770F67
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E0A7B666
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E0A91766
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E0A90CB2
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E0AA5DD8
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E0AAFF4A
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E0AAF6C2
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CB98ED17
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBAD112F
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA83DA7
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA8B637
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBADB669
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA822F1
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA8A43F
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA88148
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBAE8150
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBADB8CA
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB375F9E
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB346D9E
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB3DF7C4
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB3C9092
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB3BAC40
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF26B707
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF253EE1
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF26D5BB
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF24F042
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: USER32.dll!0x0000000056B3B85D
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: USER32.dll!0x0000000056B3B1EF
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF26DCC6
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor.exe!0x0000000091FE4BE2
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor.exe!0x0000000091FF3970
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor.exe!0x0000000091FF39EA
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor.exe!0x00000000920002D9
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: UE4Editor.exe!0x0000000092001C47
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: KERNEL32.DLL!0x0000000058891FE4
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: ntdll.dll!0x00000000590DEFC1
+[2018.03.29-22.20.22:573][174]LogOutputDevice: Error: 
+[2018.03.29-22.20.22:575][174]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.29-22.20.23:077][174]LogStats:                    SendNewReport -  0.503 s
+[2018.03.29-22.20.23:077][174]LogStats:             FDebug::EnsureFailed -  0.707 s
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:236][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:421][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:517][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:861][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:862][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:892][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:893][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:893][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:893][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:893][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:893][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:893][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:893][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:893][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Rope1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Rope1_BP_876
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.03.29-22.20.23:934][174]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: 
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 877]
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: Nans found on Bounds for Primitive ParticleSystemComponent0: Origin X=3878493952166138908041451527718567936.000 Y=-835650487477651560219444713422323712.000 Z=-2170686382943838094654884106525999104.000, BoxExtent X=3878205878567237042909961401915146240.000 Y=1688250097305654661651601097052127232.000 Z=2170765294193702301935127276300533760.000, SphereRadius inf
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: Stack: 
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF293E36
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF01C2D2
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF034746
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000D5A055B7
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DBF540EC
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DC57E497
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DBE5AD19
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DC336C07
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DC378DAD
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DC39028C
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DCB1566E
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000DBCB9DC7
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E07C2EA5
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E09421AA
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E0941C55
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000DA2957F0
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-AssetTools.dll!0x00000000CCA2B286
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000DA79EB4D
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-AssetTools.dll!0x00000000CC9C2875
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBAD14C8
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA83DA7
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA8B637
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBADB669
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA822F1
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA8A43F
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBA88148
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBAE8150
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000CBADB8CA
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB375F9E
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB346D9E
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB3DF7C4
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB3C9092
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000DB3BAC40
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF26B707
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF253EE1
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF26D5BB
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF24F042
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: USER32.dll!0x0000000056B3B85D
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: USER32.dll!0x0000000056B3B1EF
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF26DCC6
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor.exe!0x0000000091FE4BE2
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor.exe!0x0000000091FF3970
+[2018.03.29-22.20.23:934][174]LogOutputDevice: Error: UE4Editor.exe!0x0000000091FF39EA
+[2018.03.29-22.20.23:935][174]LogOutputDevice: Error: UE4Editor.exe!0x00000000920002D9
+[2018.03.29-22.20.23:935][174]LogOutputDevice: Error: UE4Editor.exe!0x0000000092001C47
+[2018.03.29-22.20.23:935][174]LogOutputDevice: Error: KERNEL32.DLL!0x0000000058891FE4
+[2018.03.29-22.20.23:935][174]LogOutputDevice: Error: ntdll.dll!0x00000000590DEFC1
+[2018.03.29-22.20.23:935][174]LogOutputDevice: Error: 
+[2018.03.29-22.20.23:942][174]LogStats:                SubmitErrorReport -  0.000 s
