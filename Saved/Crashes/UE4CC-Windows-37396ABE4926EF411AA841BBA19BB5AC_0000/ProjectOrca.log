@@ -1,0 +1,479 @@
+﻿Log file open, 04/21/18 10:36:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectOrca
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1906118242) SRandInit(1906118242).
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.513919
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.21-15.36.07:244][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-15.36.07:244][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.21-15.36.07:280][  0]LogInit: Computer: DESKTOP-P1K0IFH
+[2018.04.21-15.36.07:280][  0]LogInit: User: mesht
+[2018.04.21-15.36.07:280][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.04.21-15.36.07:280][  0]LogInit: High frequency timer resolution =3.320311 MHz
+[2018.04.21-15.36.07:280][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.21-15.36.07:280][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.21-15.36.07:280][  0]LogMemory: Process Physical Memory: 281.06 MB used, 281.06 MB peak
+[2018.04.21-15.36.07:280][  0]LogMemory: Process Virtual Memory: 281.15 MB used, 281.15 MB peak
+[2018.04.21-15.36.07:280][  0]LogMemory: Physical Memory: 6761.82 MB used,  9574.45 MB free, 16336.27 MB total
+[2018.04.21-15.36.07:280][  0]LogMemory: Virtual Memory: 718.34 MB used,  9574.45 MB free, 134217728.00 MB total
+[2018.04.21-15.36.07:954][  0]LogInit: Using OS detected language (en-US).
+[2018.04.21-15.36.07:954][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.21-15.36.08:019][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.21-15.36.11:272][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.21-15.36.11:472][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2018.04.21-15.36.11:473][  0]LogD3D11RHI:       3029/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.21-15.36.11:476][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.21-15.36.11:476][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.21-15.36.11:476][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.21-15.36.11:496][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.21-15.36.11:496][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2018.04.21-15.36.11:496][  0]LogWindows: EnumDisplayDevices:
+[2018.04.21-15.36.11:496][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2018.04.21-15.36.11:496][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:1)
+[2018.04.21-15.36.11:496][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.04.21-15.36.11:497][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.04.21-15.36.11:497][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.21-15.36.11:497][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2018.04.21-15.36.11:497][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.21-15.36.11:497][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.21-15.36.11:497][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.21-15.36.11:585][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.21-15.36.11:610][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.21-15.36.11:664][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (E:/Game-Development/Project_Orca/GitRepo/projectorca/Intermediate/Shaders/WorkingDirectory/74420/).
+[2018.04.21-15.36.11:664][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mesht/AppData/Local/Temp/UnrealShaderWorkingDir/AD4109F94C7E738D66333CAA8D91E88D/'.
+[2018.04.21-15.36.11:664][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.21-15.36.14:174][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.21-15.36.14:277][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.21-15.36.14:372][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.21-15.36.14:472][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.21-15.36.14:576][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.21-15.36.14:675][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.21-15.36.14:774][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.21-15.36.14:876][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.21-15.36.14:968][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.21-15.36.15:070][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.21-15.36.15:166][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.21-15.36.15:257][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.21-15.36.15:356][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.21-15.36.15:449][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.21-15.36.15:548][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.21-15.36.15:744][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.21-15.36.15:744][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.21-15.36.15:825][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.21-15.36.16:019][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.21-15.36.16:083][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.21-15.36.16:175][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.21-15.36.16:273][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.21-15.36.16:370][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.21-15.36.16:468][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.21-15.36.16:468][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.21-15.36.17:811][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.21-15.36.18:310][  0]LogDerivedDataCache: Loaded boot cache 0.50s 93MB C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.21-15.36.18:310][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.21-15.36.18:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Game-Development/Project_Orca/GitRepo/projectorca/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.21-15.36.18:310][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.21-15.36.18:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Game-Development/Project_Orca/GitRepo/projectorca/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.21-15.36.18:310][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.21-15.36.18:342][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.21-15.36.18:355][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mesht/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.21-15.36.18:369][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.21-15.36.18:370][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.21-15.36.18:387][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-15.36.18:388][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-15.36.19:118][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.04.21-15.36.19:301][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-15.36.19:758][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.21-15.36.20:493][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.21-15.36.20:583][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.21-15.36.20:583][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.21-15.36.20:583][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.21-15.36.20:583][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.21-15.36.20:583][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.21-15.36.21:423][  0]LogNetVersion: ProjectOrca , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 811679591)
+[2018.04.21-15.36.21:981][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.065462 seconds
+[2018.04.21-15.36.21:991][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.04.21-15.36.21:991][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.04.21-15.36.21:991][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.21-15.36.22:099][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.21-15.36.28:794][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.21-15.36.28:867][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.21-15.36.30:183][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.21-15.36.30:976][  0]SourceControl: Source control is disabled
+[2018.04.21-15.36.30:976][  0]SourceControl: Source control is disabled
+[2018.04.21-15.36.31:090][  0]SourceControl: Source control is disabled
+[2018.04.21-15.36.31:206][  0]SourceControl: Source control is disabled
+[2018.04.21-15.36.32:394][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.21-15.36.32:859][  0]LogOcInput: OculusInput pre-init called
+[2018.04.21-15.36.33:351][  0]LogEngine: Initializing Engine...
+[2018.04.21-15.36.33:354][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.21-15.36.33:785][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.21-15.36.33:785][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.21-15.36.34:006][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.21-15.36.34:067][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.04.21-15.36.34:095][  0]LogInit: FAudioDevice initialized.
+[2018.04.21-15.36.34:198][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.21-15.36.34:221][  0]LogInit: Texture streaming: Enabled
+[2018.04.21-15.36.34:477][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.21-15.36.35:276][  0]LogInit: Transaction tracking system initialized
+[2018.04.21-15.36.35:865][  0]BlueprintLog: New page: Editor Load
+[2018.04.21-15.36.37:775][  0]LocalizationService: Localization service is disabled
+[2018.04.21-15.36.39:186][  0]LogConsoleResponse: Display: 
+[2018.04.21-15.36.39:832][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.21-15.36.39:832][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.21-15.36.39:832][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.21-15.36.40:117][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/' took 0.17s
+[2018.04.21-15.36.42:069][  0]SourceControl: Source control is disabled
+[2018.04.21-15.36.42:069][  0]Cmd: MAP LOAD FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.21-15.36.42:101][  0]LightingResults: New page: Lighting Build
+[2018.04.21-15.36.42:171][  0]MapCheck: New page: Map Check
+[2018.04.21-15.36.42:171][  0]LightingResults: New page: Lighting Build
+[2018.04.21-15.36.45:334][  0]LogAIModule: Creating AISystem for world DevMap
+[2018.04.21-15.36.45:631][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.21-15.36.45:667][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.21-15.36.45:763][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.859ms to complete.
+[2018.04.21-15.36.45:763][  0]LogFileHelpers: Loading map 'DevMap' took 3.692
+[2018.04.21-15.36.46:000][  0]LogCollectionManager: Loaded 0 collections in 0.003070 seconds
+[2018.04.21-15.36.46:115][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Collections/' took 0.01s
+[2018.04.21-15.36.46:115][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Developers/mesht/Collections/' took 0.01s
+[2018.04.21-15.36.46:116][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Collections/' took 0.01s
+[2018.04.21-15.36.46:116][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.21-15.36.46:128][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2386 classes and 500 folders.
+[2018.04.21-15.36.46:228][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.21-15.36.46:610][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.21-15.36.46:701][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.21-15.36.46:737][  0]LogSlate: Took 0.005292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.21-15.36.46:745][  0]LogSlate: Took 0.005068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.21-15.36.46:757][  0]LogSlate: Took 0.005114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.21-15.36.46:931][  0]LogRenderer: Reallocating scene render targets to support 604x300 Format 10 NumSamples 1 (Frame:1).
+[2018.04.21-15.36.46:962][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.04.21-15.36.47:195][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.04.21-15.36.47:195][  0]LogLoad: (Engine Initialization) Total time: 44.27 seconds
+[2018.04.21-15.36.47:195][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.21-15.36.47:195][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.21-15.36.47:572][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.21-15.36.47:655][  0]LogSlate: Took 0.005276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.21-15.36.49:558][  6]LogAssetRegistry: Asset discovery search completed in 30.4505 seconds
+[2018.04.21-15.36.49:564][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.21-15.36.49:565][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2018.04.21-15.37.00:278][797]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.21-15.37.00:689][797]LogClass: Warning: Enum '/Game/Chameleon/Enums/colorChannels.colorChannels' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:708][797]LogClass: Warning: Enum '/Game/Chameleon/Enums/LOOKPresetsEnum.LOOKPresetsEnum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:753][797]LogClass: Warning: Enum '/Game/IndustrialCity/Blueprints/PP_Curbs.PP_Curbs' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:759][797]LogClass: Warning: Enum '/Game/IndustrialCity/Blueprints/PP_Roads.PP_Roads' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:765][797]LogClass: Warning: Enum '/Game/IndustrialCity/Blueprints/PP_Sidewalks.PP_Sidewalks' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:794][797]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Demo/Classes.Classes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:807][797]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentSlots.EquipmentSlots' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:808][797]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.21-15.37.00:825][797]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentSlotType.EquipmentSlotType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:839][797]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentType.EquipmentType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:845][797]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/ItemQuality.ItemQuality' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.00:860][797]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/ItemType.ItemType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.21-15.37.01:006][797]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2018.04.21-15.37.01:960][797]LogSlate: Took 0.005188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.21-15.37.07:899][116]LogFileCache: Retrieving MD5 hashes for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/' took 20.34s
+[2018.04.21-15.37.22:897][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater'
+[2018.04.21-15.37.22:897][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater' while loading E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset.
+[2018.04.21-15.37.22:897][236]LoadErrors: Error: /Game/ISW/Water : Can't find file for asset. /Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater
+[2018.04.21-15.37.22:897][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterContent/Shapes/Shape_Plane'
+[2018.04.21-15.37.22:897][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterContent/Shapes/Shape_Plane' while loading E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset.
+[2018.04.21-15.37.22:897][236]LoadErrors: Error: /Game/ISW/Water : Can't find file for asset. /Game/ISW/StarterContent/Shapes/Shape_Plane
+[2018.04.21-15.37.22:899][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater'
+[2018.04.21-15.37.22:899][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater' while loading E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset.
+[2018.04.21-15.37.22:902][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterContent/Shapes/Shape_Plane'
+[2018.04.21-15.37.22:902][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterContent/Shapes/Shape_Plane' while loading E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset.
+[2018.04.21-15.37.22:940][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater'
+[2018.04.21-15.37.22:940][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater' while loading NULL.
+[2018.04.21-15.37.22:940][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterContent/Shapes/Shape_Plane'
+[2018.04.21-15.37.22:940][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterContent/Shapes/Shape_Plane' while loading NULL.
+[2018.04.21-15.37.22:941][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater'
+[2018.04.21-15.37.22:941][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater' while loading NULL.
+[2018.04.21-15.37.22:941][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterContent/Shapes/Shape_Plane'
+[2018.04.21-15.37.22:941][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterContent/Shapes/Shape_Plane' while loading NULL.
+[2018.04.21-15.37.22:957][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater'
+[2018.04.21-15.37.22:957][236]LoadErrors: Failed to load /Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater.SK_Mannequin_PhysicsAsset_Underwater Referenced by EdGraphPin_10134
+[2018.04.21-15.37.22:957][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterCharacter/Character/Mesh/SK_Mannequin_PhysicsAsset_Underwater' while loading NULL.
+[2018.04.21-15.37.23:011][236]LogLinker: Warning: Can't find file '/Game/ISW/StarterContent/Shapes/Shape_Plane'
+[2018.04.21-15.37.23:011][236]LoadErrors: Failed to load /Game/ISW/StarterContent/Shapes/Shape_Plane.Shape_Plane Referenced by Cube416D3EA749A5931012FD448437B6EF84
+[2018.04.21-15.37.23:012][236]LogLinker: Warning: Can't find file for asset '/Game/ISW/StarterContent/Shapes/Shape_Plane' while loading NULL.
+[2018.04.21-15.37.23:060][236]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-15.37.23:060][236]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-15.37.23:071][236]LogBlueprint: Warning: [Compiler Water] [0080.13] Compile of Water successful, but with 2 Warning(s) [in 58 ms] (/Game/ISW/Water.Water)
+[2018.04.21-15.37.23:952][237]LogSlate: Took 0.005644 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.21-15.46.38:565][323]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.21-15.46.47:981][351]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap' took 0.049
+[2018.04.21-15.46.47:984][351]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ISW/Water] ([1] browsable assets)...
+[2018.04.21-15.46.47:984][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/ISW/Water]
+[2018.04.21-15.46.47:984][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ISW/Water" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/ISW/Water_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.21-15.46.48:500][351]LogSavePackage: Save=484.40ms
+[2018.04.21-15.46.48:501][351]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Water_Auto1AEECB59043A2B63BDCF10A96544401B2.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/ISW/Water_Auto1.uasset'
+[2018.04.21-15.46.48:502][351]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/ISW/Water_Auto1.uasset
+[2018.04.21-15.46.48:502][351]LogFileHelpers: Auto-saving content packages took 0.520
+[2018.04.21-15.49.35:768][832]LogSlate: Took 0.008028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.21-15.50.50:918][369]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.21-15.50.51:556][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints/ABP_WaterController" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset" SILENT=true
+[2018.04.21-15.50.51:609][400]LogSavePackage: Save=31.32ms
+[2018.04.21-15.50.51:609][400]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController4F528CD14606F17D882C6E8C6A056338.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset'
+[2018.04.21-15.50.51:612][400]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset
+[2018.04.21-16.03.48:590][454]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.21-16.03.48:706][454]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.03.48:707][454]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.03.48:708][454]LogBlueprint: Error: [Compiler Water] This blueprint (self) is not a ABP_WaterController_C, therefore ' Target ' must have a connection.
+[2018.04.21-16.03.48:708][454]LogBlueprint: Error: [Compiler Water] The type of  Object  is undetermined.  Connect something to  Cast To ABP_WaterController  to imply a specific type.
+[2018.04.21-16.03.48:710][454]LogBlueprint: Error: [Compiler Water] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.04.21-16.03.48:724][454]LogBlueprint: Warning: [Compiler Water] [1665.31] Compile of Water failed. 3 Fatal Issue(s) 2 Warning(s) [in 130 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.03.50:067][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints/ABP_WaterController" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset" SILENT=true
+[2018.04.21-16.03.50:129][543]LogSavePackage: Save=41.82ms
+[2018.04.21-16.03.50:129][543]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController9873F01947D6A198A020498C51785005.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset'
+[2018.04.21-16.03.50:135][543]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset
+[2018.04.21-16.05.17:782][262]BlueprintLog: New page: Compile Water
+[2018.04.21-16.05.17:972][262]LogBlueprint: Warning: [Compiler Water] 'ABP Water Controller' does not inherit from 'Primitive Component' ( Cast To ABP_WaterController  would always fail).
+[2018.04.21-16.05.17:975][262]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.05.17:975][262]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.05.17:976][262]LogBlueprint: Error: [Compiler Water] This blueprint (self) is not a ABP_WaterController_C, therefore ' Target ' must have a connection.
+[2018.04.21-16.05.18:143][262]LogBlueprint: Warning: [Compiler Water] [1754.71] Compile of Water failed. 1 Fatal Issue(s) 3 Warning(s) [in 360 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.05.47:359][ 56]BlueprintLog: New page: Compile Water
+[2018.04.21-16.05.47:552][ 56]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.05.47:552][ 56]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.05.47:553][ 56]LogBlueprint: Error: [Compiler Water] This blueprint (self) is not a ABP_WaterController_C, therefore ' Target ' must have a connection.
+[2018.04.21-16.05.47:721][ 56]LogBlueprint: Warning: [Compiler Water] [1784.29] Compile of Water failed. 1 Fatal Issue(s) 2 Warning(s) [in 362 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.06.57:904][567]BlueprintLog: New page: Compile Water
+[2018.04.21-16.06.58:099][567]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.06.58:099][567]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.06.58:277][567]LogBlueprint: Warning: [Compiler Water] [1854.83] Compile of Water successful, but with 2 Warning(s) [in 372 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.07.35:248][410]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap' took 0.047
+[2018.04.21-16.07.35:250][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ISW/Water] ([1] browsable assets)...
+[2018.04.21-16.07.35:250][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/ISW/Water]
+[2018.04.21-16.07.35:250][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ISW/Water" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/ISW/Water_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.21-16.07.35:782][410]LogSavePackage: Save=508.70ms
+[2018.04.21-16.07.35:783][410]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Water_Auto2988E5AB44E04B31EE482D3903DD90EDA.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/ISW/Water_Auto2.uasset'
+[2018.04.21-16.07.35:784][410]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/ISW/Water_Auto2.uasset
+[2018.04.21-16.07.35:784][410]LogFileHelpers: Auto-saving content packages took 0.535
+[2018.04.21-16.11.22:927][554]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.21-16.12.40:026][952]BlueprintLog: New page: Compile Water
+[2018.04.21-16.12.40:228][952]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.12.40:228][952]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.12.40:515][952]LogBlueprint: Warning: [Compiler Water] [2197.00] Compile of Water successful, but with 2 Warning(s) [in 488 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.12.40:843][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ISW/Water" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset" SILENT=true
+[2018.04.21-16.12.41:401][973]LogSavePackage: Save=527.27ms
+[2018.04.21-16.12.41:402][973]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Water313CDFB44444142104A2CCB7FCDF9138.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset'
+[2018.04.21-16.12.41:409][973]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset
+[2018.04.21-16.13.07:957][824]BlueprintLog: New page: Compile Water
+[2018.04.21-16.13.08:156][824]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.13.08:156][824]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.13.08:443][824]LogBlueprint: Warning: [Compiler Water] [2224.92] Compile of Water successful, but with 2 Warning(s) [in 485 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.13.11:902][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ISW/Water" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset" SILENT=true
+[2018.04.21-16.13.12:425][ 48]LogSavePackage: Save=518.37ms
+[2018.04.21-16.13.12:426][ 48]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Water9E6EC6CA43681CA42602B69E02DCDF89.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset'
+[2018.04.21-16.13.12:430][ 48]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset
+[2018.04.21-16.13.38:903][539]BlueprintLog: New page: Compile Water
+[2018.04.21-16.13.39:092][539]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.13.39:092][539]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.13.39:382][539]LogBlueprint: Warning: [Compiler Water] [2255.85] Compile of Water successful, but with 2 Warning(s) [in 479 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.13.39:705][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ISW/Water" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset" SILENT=true
+[2018.04.21-16.13.40:229][557]LogSavePackage: Save=518.88ms
+[2018.04.21-16.13.40:229][557]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/WaterCCBB952C45ED5F219BC0B39B70C0396A.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset'
+[2018.04.21-16.13.40:233][557]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/ISW/Water.uasset
+[2018.04.21-16.14.45:275][520]LogSavePackage: Save=25.79ms
+[2018.04.21-16.14.45:276][520]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/E_SplashIntensityC28D4D0A49C96447FE65E78B1408F098.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/Enums/E_SplashIntensity.uasset'
+[2018.04.21-16.14.45:279][520]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/Enums/E_SplashIntensity.uasset
+[2018.04.21-16.14.59:768][ 82]LogSavePackage: Save=8.32ms
+[2018.04.21-16.14.59:768][ 82]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/E_SplashIntensity22BC48EC468E2BAAA426D6B402DB856B.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/Enums/E_SplashIntensity.uasset'
+[2018.04.21-16.14.59:769][ 82]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/Enums/E_SplashIntensity.uasset
+[2018.04.21-16.17.48:521][603]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.21-16.17.48:672][603]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.17.48:672][603]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.17.48:675][603]LogBlueprint: Error: [Compiler ABP_WaterController] In use pin  Instigator  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.04.21-16.17.48:675][603]LogBlueprint: Error: [Compiler ABP_WaterController] In use pin  Splash Location  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.04.21-16.17.48:696][603]LogBlueprint: Warning: [Compiler Water] [2505.11] Compile of Water successful, but with 2 Warning(s) [in 170 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.17.49:088][603]LogBlueprint: Warning: [Compiler ABP_WaterController] [2505.51] Compile of ABP_WaterController failed. 2 Fatal Issue(s) 0 Warning(s) [in 567 ms] (/Game/Audio/Blueprints/ABP_WaterController.ABP_WaterController)
+[2018.04.21-16.18.18:229][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap' took 0.049
+[2018.04.21-16.18.18:231][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Blueprints/ABP_WaterController] ([1] browsable assets)...
+[2018.04.21-16.18.18:231][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Blueprints/ABP_WaterController]
+[2018.04.21-16.18.18:295][107]LogSavePackage: Save=41.81ms
+[2018.04.21-16.18.18:295][107]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController_Auto358604B074E6EB629203078857D813164.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/Blueprints/ABP_WaterController_Auto3.uasset'
+[2018.04.21-16.18.18:296][107]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/Blueprints/ABP_WaterController_Auto3.uasset
+[2018.04.21-16.18.18:296][107]LogFileHelpers: Auto-saving content packages took 0.066
+[2018.04.21-16.28.19:279][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap' took 0.047
+[2018.04.21-16.28.19:281][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Blueprints/ABP_WaterController] ([1] browsable assets)...
+[2018.04.21-16.28.19:281][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Blueprints/ABP_WaterController]
+[2018.04.21-16.28.19:336][ 17]LogSavePackage: Save=26.80ms
+[2018.04.21-16.28.19:336][ 17]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController_Auto4F44EBBDA41FB2C60CC8695ADB8DFCA7B.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/Blueprints/ABP_WaterController_Auto4.uasset'
+[2018.04.21-16.28.19:337][ 17]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/Blueprints/ABP_WaterController_Auto4.uasset
+[2018.04.21-16.28.19:337][ 17]LogFileHelpers: Auto-saving content packages took 0.057
+[2018.04.21-16.52.37:193][100]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.21-16.52.37:368][100]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.52.37:369][100]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.21-16.52.37:396][100]LogBlueprint: Warning: [Compiler Water] [4593.52] Compile of Water successful, but with 2 Warning(s) [in 194 ms] (/Game/ISW/Water.Water)
+[2018.04.21-16.52.38:235][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints/ABP_WaterController" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset" SILENT=true
+[2018.04.21-16.52.38:302][130]LogSavePackage: Save=41.76ms
+[2018.04.21-16.52.38:302][130]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController9EA4708748CCC742117D74B41A9CA7DF.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset'
+[2018.04.21-16.52.38:307][130]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset
+[2018.04.21-16.52.47:282][694]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.04.21-16.52.47:283][694]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.04.21-16.53.10:999][694]LogAIModule: Creating AISystem for world James_LevelDemo
+[2018.04.21-16.53.11:311][694]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.291 s
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: 
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 759]
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: Nans found on Bounds for Primitive ParticleSystemComponent0: Origin X=3878493952166138908041451527718567936.000 Y=-835650487477651560219444713422323712.000 Z=-2170686382943838094654884106525999104.000, BoxExtent X=3878205878567237042909961401915146240.000 Y=1688250097305654661651601097052127232.000 Z=2170765294193702301935127276300533760.000, SphereRadius inf
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: Stack: 
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000006D3E36
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000045C2D2
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000000474746
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000FC277D29
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000001E3D7A4
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000002465724
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000001D6DE2C
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000001D9A85F
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000196DB01
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000021E16CE
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000002B23837
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FE417476
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FE404B3F
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000C5F0F67
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000C8FB666
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000C911766
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000C910CB2
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000C925DD8
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000C92FF4A
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000C92F6C2
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF51ED17
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF66112F
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF613DA7
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF61B637
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF66B669
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF6122F1
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF61A43F
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF618148
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF678150
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EF66B8CA
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000FFD65F9E
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000FFD36D9E
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000FFDCF7C4
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000FFDB9092
+[2018.04.21-16.53.11:311][694]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000FFDAAC40
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000006AB707
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000000693EE1
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000006AD5BB
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000068F042
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: USER32.dll!0x0000000050F0B85D
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: USER32.dll!0x0000000050F0B1EF
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000006ADCC6
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor.exe!0x000000008D174BE2
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor.exe!0x000000008D183970
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor.exe!0x000000008D1839EA
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor.exe!0x000000008D1902D9
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: UE4Editor.exe!0x000000008D191C47
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: KERNEL32.DLL!0x000000004FEF1FE4
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: ntdll.dll!0x0000000052A7F061
+[2018.04.21-16.53.11:312][694]LogOutputDevice: Error: 
+[2018.04.21-16.53.11:318][694]LogStats:                SubmitErrorReport -  0.000 s
