@@ -1,0 +1,1450 @@
+﻿Log file open, 04/22/18 10:02:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectOrca
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1341754500) SRandInit(-1341754500).
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.523591
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.22-15.02.38:105][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.22-15.02.38:105][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.22-15.02.38:141][  0]LogInit: Computer: DESKTOP-P1K0IFH
+[2018.04.22-15.02.38:141][  0]LogInit: User: mesht
+[2018.04.22-15.02.38:141][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.04.22-15.02.38:141][  0]LogInit: High frequency timer resolution =3.320311 MHz
+[2018.04.22-15.02.38:141][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.22-15.02.38:141][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.22-15.02.38:141][  0]LogMemory: Process Physical Memory: 281.29 MB used, 281.29 MB peak
+[2018.04.22-15.02.38:141][  0]LogMemory: Process Virtual Memory: 281.18 MB used, 281.18 MB peak
+[2018.04.22-15.02.38:141][  0]LogMemory: Physical Memory: 6465.13 MB used,  9871.14 MB free, 16336.27 MB total
+[2018.04.22-15.02.38:141][  0]LogMemory: Virtual Memory: 718.34 MB used,  9871.14 MB free, 134217728.00 MB total
+[2018.04.22-15.02.38:773][  0]LogInit: Using OS detected language (en-US).
+[2018.04.22-15.02.38:773][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.22-15.02.38:828][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.22-15.02.41:712][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.22-15.02.41:895][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2018.04.22-15.02.41:895][  0]LogD3D11RHI:       3029/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.22-15.02.41:905][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.22-15.02.41:905][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.22-15.02.41:905][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.22-15.02.41:923][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.22-15.02.41:924][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2018.04.22-15.02.41:924][  0]LogWindows: EnumDisplayDevices:
+[2018.04.22-15.02.41:924][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2018.04.22-15.02.41:924][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:1)
+[2018.04.22-15.02.41:924][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.04.22-15.02.41:924][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.04.22-15.02.41:924][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.22-15.02.41:924][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2018.04.22-15.02.41:924][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.22-15.02.41:924][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.22-15.02.41:925][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.22-15.02.41:997][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.22-15.02.42:022][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.22-15.02.42:075][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (E:/Game-Development/Project_Orca/GitRepo/projectorca/Intermediate/Shaders/WorkingDirectory/122496/).
+[2018.04.22-15.02.42:076][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mesht/AppData/Local/Temp/UnrealShaderWorkingDir/E3C42D264876B15A22D90783DBAEBA29/'.
+[2018.04.22-15.02.42:076][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.22-15.02.44:502][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.22-15.02.44:591][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.22-15.02.44:679][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.22-15.02.44:768][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.22-15.02.44:863][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.22-15.02.44:954][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.22-15.02.45:043][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.22-15.02.45:133][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.22-15.02.45:215][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.22-15.02.45:315][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.22-15.02.45:404][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.22-15.02.45:495][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.22-15.02.45:582][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.22-15.02.45:669][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.22-15.02.45:760][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.22-15.02.45:940][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.22-15.02.45:940][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.22-15.02.46:013][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.22-15.02.46:195][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.22-15.02.46:253][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.22-15.02.46:340][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.22-15.02.46:429][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.22-15.02.46:516][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.22-15.02.46:609][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.22-15.02.46:609][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.22-15.02.47:890][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.22-15.02.48:372][  0]LogDerivedDataCache: Loaded boot cache 0.48s 93MB C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.22-15.02.48:373][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.22-15.02.48:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Game-Development/Project_Orca/GitRepo/projectorca/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.22-15.02.48:373][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.22-15.02.48:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Game-Development/Project_Orca/GitRepo/projectorca/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.22-15.02.48:373][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.22-15.02.48:401][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.22-15.02.48:414][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mesht/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.22-15.02.48:430][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.22-15.02.48:431][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.22-15.02.48:448][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.22-15.02.48:448][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.22-15.02.49:127][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2018.04.22-15.02.49:293][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.22-15.02.49:733][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.22-15.02.50:447][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.22-15.02.50:528][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.22-15.02.50:528][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.22-15.02.50:528][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.22-15.02.50:528][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.22-15.02.50:528][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.22-15.02.51:323][  0]LogNetVersion: ProjectOrca , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 811679591)
+[2018.04.22-15.02.51:855][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.079654 seconds
+[2018.04.22-15.02.51:865][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.04.22-15.02.51:865][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.04.22-15.02.51:865][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.22-15.02.51:967][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.22-15.02.58:096][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.22-15.02.58:164][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.22-15.02.59:397][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.22-15.03.00:120][  0]SourceControl: Source control is disabled
+[2018.04.22-15.03.00:120][  0]SourceControl: Source control is disabled
+[2018.04.22-15.03.00:226][  0]SourceControl: Source control is disabled
+[2018.04.22-15.03.00:329][  0]SourceControl: Source control is disabled
+[2018.04.22-15.03.01:459][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.22-15.03.01:901][  0]LogOcInput: OculusInput pre-init called
+[2018.04.22-15.03.02:367][  0]LogEngine: Initializing Engine...
+[2018.04.22-15.03.02:370][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.22-15.03.02:811][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.22-15.03.02:811][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.22-15.03.03:013][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.22-15.03.03:070][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.04.22-15.03.03:092][  0]LogInit: FAudioDevice initialized.
+[2018.04.22-15.03.03:812][  0]LogDerivedDataCache: Saved boot cache 0.72s 93MB C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.22-15.03.03:833][  0]LogInit: Texture streaming: Enabled
+[2018.04.22-15.03.04:079][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.22-15.03.04:919][  0]LogInit: Transaction tracking system initialized
+[2018.04.22-15.03.05:485][  0]BlueprintLog: New page: Editor Load
+[2018.04.22-15.03.07:262][  0]LocalizationService: Localization service is disabled
+[2018.04.22-15.03.08:603][  0]LogConsoleResponse: Display: 
+[2018.04.22-15.03.09:232][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.22-15.03.09:232][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.22-15.03.09:232][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.22-15.03.09:516][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/' took 0.24s
+[2018.04.22-15.03.11:356][  0]SourceControl: Source control is disabled
+[2018.04.22-15.03.11:356][  0]Cmd: MAP LOAD FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.22-15.03.11:414][  0]LightingResults: New page: Lighting Build
+[2018.04.22-15.03.11:485][  0]MapCheck: New page: Map Check
+[2018.04.22-15.03.11:485][  0]LightingResults: New page: Lighting Build
+[2018.04.22-15.03.14:791][  0]LogAIModule: Creating AISystem for world DevMap
+[2018.04.22-15.03.15:091][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.22-15.03.15:128][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.22-15.03.15:214][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.766ms to complete.
+[2018.04.22-15.03.15:214][  0]LogFileHelpers: Loading map 'DevMap' took 3.858
+[2018.04.22-15.03.15:446][  0]LogCollectionManager: Loaded 0 collections in 0.003069 seconds
+[2018.04.22-15.03.15:551][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Collections/' took 0.01s
+[2018.04.22-15.03.15:551][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Developers/mesht/Collections/' took 0.01s
+[2018.04.22-15.03.15:551][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Collections/' took 0.01s
+[2018.04.22-15.03.15:551][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.22-15.03.15:563][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2386 classes and 500 folders.
+[2018.04.22-15.03.15:656][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.22-15.03.16:065][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.22-15.03.16:162][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.22-15.03.16:305][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.22-15.03.16:305][  0]LogLoad: (Engine Initialization) Total time: 42.35 seconds
+[2018.04.22-15.03.16:305][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.22-15.03.16:305][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.22-15.03.16:684][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.22-15.03.16:693][  0]LogSlate: Took 0.006804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.22-15.03.16:700][  0]LogSlate: Took 0.005046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.22-15.03.16:711][  0]LogSlate: Took 0.005790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.22-15.03.16:922][  0]LogSlate: Took 0.004996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.22-15.03.16:945][  1]LogRenderer: Reallocating scene render targets to support 400x180 Format 10 NumSamples 1 (Frame:1).
+[2018.04.22-15.03.17:028][  2]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2018.04.22-15.03.18:664][  6]LogAssetRegistry: Asset discovery search completed in 29.5594 seconds
+[2018.04.22-15.03.18:670][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.22-15.03.18:670][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2018.04.22-15.03.20:764][ 10]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:3).
+[2018.04.22-15.03.31:057][766]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.22-15.03.31:488][766]LogClass: Warning: Enum '/Game/Chameleon/Enums/colorChannels.colorChannels' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.31:550][766]LogClass: Warning: Enum '/Game/Chameleon/Enums/LOOKPresetsEnum.LOOKPresetsEnum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.31:636][766]LogClass: Warning: Enum '/Game/IndustrialCity/Blueprints/PP_Curbs.PP_Curbs' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.31:637][766]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.22-15.03.31:647][766]LogClass: Warning: Enum '/Game/IndustrialCity/Blueprints/PP_Roads.PP_Roads' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.31:653][766]LogClass: Warning: Enum '/Game/IndustrialCity/Blueprints/PP_Sidewalks.PP_Sidewalks' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.31:694][766]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Demo/Classes.Classes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.31:790][766]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentSlots.EquipmentSlots' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.31:883][766]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentSlotType.EquipmentSlotType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.32:022][766]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentType.EquipmentType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.32:028][766]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/ItemQuality.ItemQuality' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.32:051][766]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/ItemType.ItemType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.04.22-15.03.32:185][766]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.04.22-15.03.33:114][766]LogSlate: Took 0.005647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.22-15.03.33:280][767]LogSlate: Took 0.005038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.22-15.03.38:101][ 95]LogFileCache: Retrieving MD5 hashes for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/' took 21.44s
+[2018.04.22-15.05.27:569][917]LogSlate: Took 0.005554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.22-15.06.32:867][912]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.22-15.07.36:542][778]LogSavePackage: Save=28.09ms
+[2018.04.22-15.07.36:542][778]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_CharacterSplash_Med82D18742458F47F15A1722964527A3F4.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Character/SC_CharacterSplash_Med.uasset'
+[2018.04.22-15.07.36:547][778]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Character/SC_CharacterSplash_Med.uasset
+[2018.04.22-15.07.41:108][179]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Audio/SoundCues/Character/SC_CharacterSplash_Low_3.SC_CharacterSplash_Low_3'
+[2018.04.22-15.07.41:138][179]LogSavePackage: Save=14.32ms
+[2018.04.22-15.07.41:139][179]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_CharacterSplash_High0F76B3494E5CF58EAC7319B6BADDD570.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Character/SC_CharacterSplash_High.uasset'
+[2018.04.22-15.07.41:141][179]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Character/SC_CharacterSplash_High.uasset
+[2018.04.22-15.07.45:379][504]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.22-15.07.59:353][725]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.22-15.07.59:992][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints/ABP_WaterController" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset" SILENT=true
+[2018.04.22-15.08.00:176][756]LogSavePackage: Save=106.12ms
+[2018.04.22-15.08.00:176][756]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterControllerF72AD3BA4CDC93BBF4391FB900F1EF91.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset'
+[2018.04.22-15.08.00:180][756]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset
+[2018.04.22-15.13.17:094][455]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap' took 0.044
+[2018.04.22-15.13.17:096][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/Character/SC_CharacterSplash_Low] ([1] browsable assets)...
+[2018.04.22-15.13.17:096][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/Character/SC_CharacterSplash_Low]
+[2018.04.22-15.13.17:115][455]LogSavePackage: Save=16.94ms
+[2018.04.22-15.13.17:116][455]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_CharacterSplash_Low_Auto1F93FAAC24A618E255D3FD8B62E3C7F3C.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Character/SC_CharacterSplash_Low_Auto1.uasset'
+[2018.04.22-15.13.17:117][455]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Character/SC_CharacterSplash_Low_Auto1.uasset
+[2018.04.22-15.13.17:117][455]LogFileHelpers: Auto-saving content packages took 0.022
+[2018.04.22-15.17.29:965][532]LogLinker: Warning: Can't find file '/Game/Audio/SoundCues/Character/SC_CharacterSplash_Low'
+[2018.04.22-15.17.29:965][532]LogLinker: Warning: Can't find file for asset '/Game/Audio/SoundCues/Character/SC_CharacterSplash_Low' while loading E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset.
+[2018.04.22-15.17.29:965][532]LoadErrors: Error: /Game/Audio/Blueprints/ABP_WaterController : Can't find file for asset. /Game/Audio/SoundCues/Character/SC_CharacterSplash_Low
+[2018.04.22-15.17.29:972][532]LogLinker: Warning: Can't find file '/Game/Audio/SoundCues/Character/SC_CharacterSplash_Low'
+[2018.04.22-15.17.29:972][532]LogLinker: Warning: Can't find file for asset '/Game/Audio/SoundCues/Character/SC_CharacterSplash_Low' while loading E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset.
+[2018.04.22-15.17.30:665][532]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.04.22-15.17.30:665][532]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.04.22-15.17.33:100][532]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.17.33:100][532]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.17.33:111][532]LogBlueprint: Warning: [Compiler Water] [0899.15] Compile of Water successful, but with 2 Warning(s) [in 46 ms] (/Game/ISW/Water.Water)
+[2018.04.22-15.17.43:998][532]LogLinker: Warning: Can't find file '/Game/testmaterial'
+[2018.04.22-15.17.43:999][532]LogLinker: Warning: Can't find file for asset '/Game/testmaterial' while loading E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.04.22-15.17.43:999][532]LoadErrors: Error: /Game/Maps/James_LevelDemo : Can't find file for asset. /Game/testmaterial
+[2018.04.22-15.17.47:687][532]LogLinker: Warning: Can't find file '/Game/testmaterial'
+[2018.04.22-15.17.47:687][532]LogLinker: Warning: Can't find file for asset '/Game/testmaterial' while loading E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo.umap.
+[2018.04.22-15.17.47:871][532]LogLinker: Warning: Can't find file '/Game/testmaterial'
+[2018.04.22-15.17.47:871][532]LogLinker: Warning: Can't find file for asset '/Game/testmaterial' while loading NULL.
+[2018.04.22-15.17.47:871][532]LogLinker: Warning: Can't find file '/Game/testmaterial'
+[2018.04.22-15.17.47:871][532]LogLinker: Warning: Can't find file for asset '/Game/testmaterial' while loading NULL.
+[2018.04.22-15.17.48:566][532]LogLinker: Warning: Can't find file '/Game/testmaterial'
+[2018.04.22-15.17.48:567][532]LoadErrors: Failed to load /Game/testmaterial.testmaterial Referenced by Table_mdl11_159
+[2018.04.22-15.17.48:567][532]LogLinker: Warning: Can't find file for asset '/Game/testmaterial' while loading NULL.
+[2018.04.22-15.17.54:940][532]LogAIModule: Creating AISystem for world James_LevelDemo
+[2018.04.22-15.17.55:232][532]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.277 s
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: 
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 759]
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: Nans found on Bounds for Primitive ParticleSystemComponent0: Origin X=3878493952166138908041451527718567936.000 Y=-835650487477651560219444713422323712.000 Z=-2170686382943838094654884106525999104.000, BoxExtent X=3878205878567237042909961401915146240.000 Y=1688250097305654661651601097052127232.000 Z=2170765294193702301935127276300533760.000, SphereRadius inf
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: Stack: 
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060E3E36
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000005E6C2D2
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000005E84746
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000034A7D29
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000784D7A4
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000007E75724
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000777DE2C
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000077AA85F
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000737DB01
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000007BF16CE
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000008533837
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000004867476
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000004854B3F
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023190F67
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000002349B666
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000234B1766
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000234B0CB2
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000234C5DD8
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000234CFF4A
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000234CF6C2
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F6F0ED17
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F705112F
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F7003DA7
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F700B637
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F705B669
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F70022F1
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F700A43F
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F7008148
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F7068150
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F705B8CA
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022C55F9E
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022C26D9E
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022CBF7C4
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022CA9092
+[2018.04.22-15.17.55:232][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022C9AC40
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060BB707
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060A3EE1
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060BD5BB
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000609F042
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: USER32.dll!0x0000000050F0B85D
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: USER32.dll!0x0000000050F0B1EF
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060BDCC6
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBC94BE2
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCA3970
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCA39EA
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCB02D9
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCB1C47
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: KERNEL32.DLL!0x000000004FEF1FE4
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: ntdll.dll!0x0000000052A7F061
+[2018.04.22-15.17.55:233][532]LogOutputDevice: Error: 
+[2018.04.22-15.17.55:241][532]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.22-15.17.56:006][532]LogStats:                    SendNewReport -  0.765 s
+[2018.04.22-15.17.56:006][532]LogStats:             FDebug::EnsureFailed -  1.051 s
+[2018.04.22-15.17.56:185][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:185][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:185][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:186][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:208][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:208][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:208][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:208][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:208][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:208][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:208][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:208][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:209][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:276][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:277][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:277][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:277][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:277][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:277][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:277][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:679][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:680][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:853][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:853][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:853][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:853][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:853][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:853][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:853][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.56:854][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.57:871][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.57:872][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:024][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:025][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:025][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:025][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:056][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:057][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:057][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:057][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:151][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:151][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:151][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:151][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:151][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:152][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:317][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:318][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:318][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:318][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:318][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:318][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:318][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.04.22-15.17.58:318][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:318][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.04.22-15.17.58:647][532]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.004 s
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: 
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 877]
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: Nans found on Bounds for Primitive ParticleSystemComponent0: Origin X=3878493952166138908041451527718567936.000 Y=-835650487477651560219444713422323712.000 Z=-2170686382943838094654884106525999104.000, BoxExtent X=3878205878567237042909961401915146240.000 Y=1688250097305654661651601097052127232.000 Z=2170765294193702301935127276300533760.000, SphereRadius inf
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: Stack: 
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060E3E36
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000005E6C2D2
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000005E84746
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000035355B7
+[2018.04.22-15.17.58:647][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000078740EC
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000007E9E497
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000777AD19
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000007C56C07
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000007C98DAD
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000007CB028C
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000843566E
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000075D9DC7
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000231E2EA5
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000233621AA
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023361C55
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000004BE57F0
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-AssetTools.dll!0x00000000F811B286
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000050EEB4D
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-AssetTools.dll!0x00000000F80B2875
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F70514C8
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F7003DA7
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F700B637
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F705B669
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F70022F1
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F700A43F
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F7008148
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F7068150
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000F705B8CA
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022C55F9E
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022C26D9E
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022CBF7C4
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022CA9092
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000022C9AC40
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060BB707
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060A3EE1
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060BD5BB
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000609F042
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: USER32.dll!0x0000000050F0B85D
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: USER32.dll!0x0000000050F0B1EF
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060BDCC6
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBC94BE2
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCA3970
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCA39EA
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCB02D9
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCB1C47
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: KERNEL32.DLL!0x000000004FEF1FE4
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: ntdll.dll!0x0000000052A7F061
+[2018.04.22-15.17.58:648][532]LogOutputDevice: Error: 
+[2018.04.22-15.17.58:651][532]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.22-15.17.59:209][532]LogStats:                    SendNewReport -  0.557 s
+[2018.04.22-15.17.59:209][532]LogStats:             FDebug::EnsureFailed -  0.565 s
+[2018.04.22-15.18.01:845][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints/ABP_WaterController" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset" SILENT=true
+[2018.04.22-15.18.01:995][532]LogSavePackage: Save=109.11ms
+[2018.04.22-15.18.01:995][532]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController63CBA5DA4A3C73C2703F1C82CB95B8D4.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset'
+[2018.04.22-15.18.02:001][532]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset
+[2018.04.22-15.18.02:018][532]LogSavePackage: Save=14.28ms
+[2018.04.22-15.18.02:018][532]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_CharacterSplash_LowD6EB91A44D18CED5CCD0BA824C91817A.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Character/SC_CharacterSplash_Low.uasset'
+[2018.04.22-15.18.02:022][532]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Character/SC_CharacterSplash_Low.uasset
+[2018.04.22-15.18.02:023][532]Cmd: MAP LOAD FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.22-15.18.02:023][532]LightingResults: New page: Lighting Build
+[2018.04.22-15.18.02:024][532]LoadErrors: New page: Loading map: James_LevelDemo.umap
+[2018.04.22-15.18.02:025][532]MapCheck: New page: Map Check
+[2018.04.22-15.18.02:025][532]LightingResults: New page: Lighting Build
+[2018.04.22-15.18.02:341][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/15]!
+[2018.04.22-15.18.02:347][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/17]!
+[2018.04.22-15.18.02:360][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/12]!
+[2018.04.22-15.18.02:452][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/3]!
+[2018.04.22-15.18.02:453][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/3]!
+[2018.04.22-15.18.02:457][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/3]!
+[2018.04.22-15.18.02:459][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/1]!
+[2018.04.22-15.18.02:462][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/15]!
+[2018.04.22-15.18.02:486][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/29]!
+[2018.04.22-15.18.02:486][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/29]!
+[2018.04.22-15.18.02:487][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/29]!
+[2018.04.22-15.18.02:487][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/29]!
+[2018.04.22-15.18.02:487][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/29]!
+[2018.04.22-15.18.02:648][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/46]!
+[2018.04.22-15.18.03:160][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/58]!
+[2018.04.22-15.18.03:185][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/45]!
+[2018.04.22-15.18.03:229][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/13]!
+[2018.04.22-15.18.03:254][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/12]!
+[2018.04.22-15.18.03:284][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/37]!
+[2018.04.22-15.18.03:298][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/10]!
+[2018.04.22-15.18.03:418][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/17]!
+[2018.04.22-15.18.03:545][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/12]!
+[2018.04.22-15.18.03:581][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/2]!
+[2018.04.22-15.18.03:612][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/4]!
+[2018.04.22-15.18.03:612][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/4]!
+[2018.04.22-15.18.03:612][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/4]!
+[2018.04.22-15.18.03:703][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/8]!
+[2018.04.22-15.18.03:703][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/8]!
+[2018.04.22-15.18.03:703][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/8]!
+[2018.04.22-15.18.03:723][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/27]!
+[2018.04.22-15.18.03:723][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/27]!
+[2018.04.22-15.18.03:736][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/15]!
+[2018.04.22-15.18.03:825][532]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array meshEndTimes [-1/10]!
+[2018.04.22-15.18.03:891][532]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.22-15.18.04:147][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.22-15.18.04:379][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 232.295ms to complete.
+[2018.04.22-15.18.04:380][532]LogFileHelpers: Loading map 'James_LevelDemo' took 2.358
+[2018.04.22-15.18.52:754][432]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.005 s
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: 
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: Ensure condition failed: FMath::IsFinite(Info.TexelFactor) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\PrimitiveComponent.cpp] [Line: 310]
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: 
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: Stack: 
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000060E3E36
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000005E6C2D2
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000005E84746
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000785D408
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000008326403
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000008343697
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000834455C
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000008365524
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000078E9F0A
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000078E4D44
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000000487D246
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000000510D646
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBC9534A
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCA3970
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCA39EA
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCB02D9
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: UE4Editor.exe!0x00000000EBCB1C47
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: KERNEL32.DLL!0x000000004FEF1FE4
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: ntdll.dll!0x0000000052A7F061
+[2018.04.22-15.18.52:755][432]LogOutputDevice: Error: 
+[2018.04.22-15.18.52:760][432]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.22-15.18.53:379][432]LogStats:                    SendNewReport -  0.619 s
+[2018.04.22-15.18.53:379][432]LogStats:             FDebug::EnsureFailed -  0.630 s
+[2018.04.22-15.18.59:840][858]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.22-15.19.00:003][858]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.19.00:003][858]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.19.00:034][858]LogBlueprint: Warning: [Compiler Water] [0986.07] Compile of Water successful, but with 2 Warning(s) [in 176 ms] (/Game/ISW/Water.Water)
+[2018.04.22-15.26.36:502][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicalMaterials/PhysM_SandWet" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_SandWet.uasset" SILENT=true
+[2018.04.22-15.26.36:525][420]LogSavePackage: Save=20.47ms
+[2018.04.22-15.26.36:525][420]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/PhysM_SandWet3DA67C134CF6B738A8B58FA8DF0C689B.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_SandWet.uasset'
+[2018.04.22-15.26.36:528][420]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_SandWet.uasset
+[2018.04.22-15.26.46:265][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicalMaterials/PhysM_Wood" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Wood.uasset" SILENT=true
+[2018.04.22-15.26.46:280][509]LogSavePackage: Save=12.91ms
+[2018.04.22-15.26.46:280][509]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/PhysM_Wood1DADE8FF4A5F23D28199F99E8614F701.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Wood.uasset'
+[2018.04.22-15.26.46:283][509]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Wood.uasset
+[2018.04.22-15.26.57:038][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicalMaterials/PhysM_Concrete" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Concrete.uasset" SILENT=true
+[2018.04.22-15.26.57:053][719]LogSavePackage: Save=12.48ms
+[2018.04.22-15.26.57:053][719]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/PhysM_ConcreteEFF046F540A52FBA37528B992702862E.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Concrete.uasset'
+[2018.04.22-15.26.57:056][719]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Concrete.uasset
+[2018.04.22-15.27.06:813][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicalMaterials/PhysM_Dirt" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Dirt.uasset" SILENT=true
+[2018.04.22-15.27.06:838][808]LogSavePackage: Save=22.73ms
+[2018.04.22-15.27.06:838][808]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/PhysM_DirtA783268A4B8F86816FAD2E9EFB436546.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Dirt.uasset'
+[2018.04.22-15.27.06:841][808]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_Dirt.uasset
+[2018.04.22-15.27.17:074][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicalMaterials/PhysM_WaterShallow" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_WaterShallow.uasset" SILENT=true
+[2018.04.22-15.27.17:094][954]LogSavePackage: Save=18.36ms
+[2018.04.22-15.27.17:095][954]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/PhysM_WaterShallowD207F24A4ECF45B7E37988AEE6A92A45.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_WaterShallow.uasset'
+[2018.04.22-15.27.17:097][954]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_WaterShallow.uasset
+[2018.04.22-15.27.25:163][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicalMaterials/PhysM_WaterDeep" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_WaterDeep.uasset" SILENT=true
+[2018.04.22-15.27.25:189][842]LogSavePackage: Save=23.35ms
+[2018.04.22-15.27.25:189][842]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/PhysM_WaterDeepEB34CAAC41B54F26C66CB68AFBD9B3A9.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_WaterDeep.uasset'
+[2018.04.22-15.27.25:192][842]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_WaterDeep.uasset
+[2018.04.22-15.28.09:799][735]LogSavePackage: Save=6821.83ms
+[2018.04.22-15.28.09:799][735]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/James_LevelDemo_Auto290D4DDE44BB2700B7479EAB3827EF187.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Maps/James_LevelDemo_Auto2.umap'
+[2018.04.22-15.28.09:802][735]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Maps/James_LevelDemo_Auto2.umap
+[2018.04.22-15.28.09:810][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/James_LevelDemo' took 6.935
+[2018.04.22-15.28.09:810][735]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.935
+[2018.04.22-15.28.09:813][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Blueprints/ABP_WaterController] ([1] browsable assets)...
+[2018.04.22-15.28.09:813][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Blueprints/ABP_WaterController]
+[2018.04.22-15.28.09:948][735]LogSavePackage: Save=114.85ms
+[2018.04.22-15.28.09:948][735]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController_Auto239CE4D264A429B8C252E58BED0BAC716.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/Blueprints/ABP_WaterController_Auto2.uasset'
+[2018.04.22-15.28.09:960][735]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/Blueprints/ABP_WaterController_Auto2.uasset
+[2018.04.22-15.28.09:960][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PhysicalMaterials/PhysM_SandDry] ([1] browsable assets)...
+[2018.04.22-15.28.09:961][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/PhysicalMaterials/PhysM_SandDry]
+[2018.04.22-15.28.09:972][735]LogSavePackage: Save=9.69ms
+[2018.04.22-15.28.09:972][735]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/PhysM_SandDry_Auto2DBB41A094903504F6A16709B2D75061A.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/PhysicalMaterials/PhysM_SandDry_Auto2.uasset'
+[2018.04.22-15.28.09:973][735]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/PhysicalMaterials/PhysM_SandDry_Auto2.uasset
+[2018.04.22-15.28.09:973][735]LogFileHelpers: Auto-saving content packages took 0.161
+[2018.04.22-15.33.46:310][269]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.22-15.33.46:454][269]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.33.46:454][269]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.33.46:477][269]LogBlueprint: Warning: [Compiler Water] [1872.52] Compile of Water successful, but with 2 Warning(s) [in 149 ms] (/Game/ISW/Water.Water)
+[2018.04.22-15.35.14:420][431]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.22-15.35.14:566][431]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.35.14:566][431]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.35.14:590][431]LogBlueprint: Warning: [Compiler Water] [1960.63] Compile of Water successful, but with 2 Warning(s) [in 151 ms] (/Game/ISW/Water.Water)
+[2018.04.22-15.35.15:615][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints/ABP_WaterController" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset" SILENT=true
+[2018.04.22-15.35.15:761][451]LogSavePackage: Save=113.24ms
+[2018.04.22-15.35.15:761][451]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController6B1BB3B74FFAA77C5D9C079CBE247B75.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset'
+[2018.04.22-15.35.15:767][451]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset
+[2018.04.22-15.36.43:395][122]LogEditorTransaction: Undo Move Node
+[2018.04.22-15.36.52:617][754]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.22-15.36.52:762][754]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.36.52:762][754]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.36.52:785][754]LogBlueprint: Warning: [Compiler Water] [2058.83] Compile of Water successful, but with 2 Warning(s) [in 150 ms] (/Game/ISW/Water.Water)
+[2018.04.22-15.39.52:020][707]LogSavePackage: Save=6860.08ms
+[2018.04.22-15.39.52:020][707]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/James_LevelDemo_Auto38E44105D4659F773E1506FA822295984.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Maps/James_LevelDemo_Auto3.umap'
+[2018.04.22-15.39.52:023][707]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Maps/James_LevelDemo_Auto3.umap
+[2018.04.22-15.39.52:031][707]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/James_LevelDemo' took 6.969
+[2018.04.22-15.39.52:031][707]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.969
+[2018.04.22-15.39.52:034][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/Character/SC_Character_FS] ([1] browsable assets)...
+[2018.04.22-15.39.52:034][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/Character/SC_Character_FS]
+[2018.04.22-15.39.52:089][707]LogSavePackage: Save=33.32ms
+[2018.04.22-15.39.52:089][707]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_Character_FS_Auto3061F1864499BF058EA474E8B6B11211D.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Character/SC_Character_FS_Auto3.uasset'
+[2018.04.22-15.39.52:090][707]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Character/SC_Character_FS_Auto3.uasset
+[2018.04.22-15.39.52:091][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Blueprints/ABP_WaterController] ([1] browsable assets)...
+[2018.04.22-15.39.52:091][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Blueprints/ABP_WaterController]
+[2018.04.22-15.39.52:196][707]LogSavePackage: Save=100.26ms
+[2018.04.22-15.39.52:196][707]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController_Auto374DE1B924AC2D23AE5B0398527CE832E.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/Blueprints/ABP_WaterController_Auto3.uasset'
+[2018.04.22-15.39.52:198][707]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/Blueprints/ABP_WaterController_Auto3.uasset
+[2018.04.22-15.39.52:198][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/Water/SC_ObjSplash_High] ([1] browsable assets)...
+[2018.04.22-15.39.52:198][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/Water/SC_ObjSplash_High]
+[2018.04.22-15.39.52:242][707]LogSavePackage: Save=25.04ms
+[2018.04.22-15.39.52:243][707]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_ObjSplash_High_Auto3A150A285488ED977527114B062A61BDB.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Water/SC_ObjSplash_High_Auto3.uasset'
+[2018.04.22-15.39.52:244][707]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Water/SC_ObjSplash_High_Auto3.uasset
+[2018.04.22-15.39.52:245][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/Water/SC_ObjSplash_Low] ([1] browsable assets)...
+[2018.04.22-15.39.52:245][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/Water/SC_ObjSplash_Low]
+[2018.04.22-15.39.52:267][707]LogSavePackage: Save=8.40ms
+[2018.04.22-15.39.52:267][707]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_ObjSplash_Low_Auto30B1A9C744683FCF32CA4B0800F03CABF.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Water/SC_ObjSplash_Low_Auto3.uasset'
+[2018.04.22-15.39.52:268][707]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Water/SC_ObjSplash_Low_Auto3.uasset
+[2018.04.22-15.39.52:269][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/Water/SC_ObjSplash_Med] ([1] browsable assets)...
+[2018.04.22-15.39.52:269][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/Water/SC_ObjSplash_Med]
+[2018.04.22-15.39.52:292][707]LogSavePackage: Save=8.31ms
+[2018.04.22-15.39.52:292][707]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_ObjSplash_Med_Auto3147CDB98445A55F5BF7C17858096D63D.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Water/SC_ObjSplash_Med_Auto3.uasset'
+[2018.04.22-15.39.52:293][707]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Autosaves/Game/Audio/SoundCues/Water/SC_ObjSplash_Med_Auto3.uasset
+[2018.04.22-15.39.52:293][707]LogFileHelpers: Auto-saving content packages took 0.260
+[2018.04.22-15.43.34:377][868]LogSavePackage: Save=37.99ms
+[2018.04.22-15.43.34:377][868]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_Character_FSF004FC6343C86CA8EED82AB467A5A28E.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Character/SC_Character_FS.uasset'
+[2018.04.22-15.43.34:385][868]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Character/SC_Character_FS.uasset
+[2018.04.22-15.43.36:116][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints/ABP_WaterController" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset" SILENT=true
+[2018.04.22-15.43.36:249][987]LogSavePackage: Save=105.28ms
+[2018.04.22-15.43.36:249][987]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterControllerC3ABA2774597C7D66C8BDEB454FD2173.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset'
+[2018.04.22-15.43.36:256][987]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset
+[2018.04.22-15.45.32:383][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/Water/SC_ObjSplash_High" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_High.uasset" SILENT=true
+[2018.04.22-15.45.32:432][845]LogSavePackage: Save=19.56ms
+[2018.04.22-15.45.32:432][845]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_ObjSplash_High83855ACA4C5310C6CAF866AD6B1FA192.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_High.uasset'
+[2018.04.22-15.45.32:444][845]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_High.uasset
+[2018.04.22-15.45.33:773][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/Water/SC_ObjSplash_Med" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_Med.uasset" SILENT=true
+[2018.04.22-15.45.33:831][946]LogSavePackage: Save=28.54ms
+[2018.04.22-15.45.33:831][946]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_ObjSplash_MedF1BDEB384E074665A0A6728FFDFBCFE8.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_Med.uasset'
+[2018.04.22-15.45.33:839][946]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_Med.uasset
+[2018.04.22-15.45.34:856][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/Water/SC_ObjSplash_Low" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_Low.uasset" SILENT=true
+[2018.04.22-15.45.34:893][ 19]LogSavePackage: Save=19.86ms
+[2018.04.22-15.45.34:893][ 19]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/SC_ObjSplash_Low97C403324AA8C641859FF7A5356AD0C9.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_Low.uasset'
+[2018.04.22-15.45.34:899][ 19]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/SoundCues/Water/SC_ObjSplash_Low.uasset
+[2018.04.22-15.45.55:782][514]BlueprintLog: New page: Compile ABP_WaterController
+[2018.04.22-15.45.55:926][514]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.45.55:926][514]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.04.22-15.45.55:949][514]LogBlueprint: Warning: [Compiler Water] [2601.99] Compile of Water successful, but with 2 Warning(s) [in 148 ms] (/Game/ISW/Water.Water)
+[2018.04.22-15.45.57:651][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints/ABP_WaterController" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset" SILENT=true
+[2018.04.22-15.45.57:760][580]LogSavePackage: Save=103.51ms
+[2018.04.22-15.45.57:761][580]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/ABP_WaterController3AC2E2814C8A216AA387418A5D2D84D7.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset'
+[2018.04.22-15.45.57:764][580]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Audio/Blueprints/ABP_WaterController.uasset
+[2018.04.22-15.46.24:592][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicalMaterials/PhysM_SandDry" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_SandDry.uasset" SILENT=true
+[2018.04.22-15.46.24:607][654]LogSavePackage: Save=13.14ms
+[2018.04.22-15.46.24:607][654]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/PhysM_SandDry2C445AC04134B553D1D8848256325959.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_SandDry.uasset'
+[2018.04.22-15.46.24:613][654]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/PhysicalMaterials/PhysM_SandDry.uasset
+[2018.04.22-15.46.41:454][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/James_LevelDemo" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.22-15.46.48:386][461]LogSavePackage: Save=6841.18ms
+[2018.04.22-15.46.48:386][461]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/James_LevelDemo744D52464D2B4DE7053E9084F3AFDA97.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo.umap'
+[2018.04.22-15.46.48:391][461]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo.umap
+[2018.04.22-15.46.48:428][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/James_LevelDemo_BuiltData" FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo_BuiltData.uasset" SILENT=true
+[2018.04.22-15.46.49:188][461]LogSavePackage: Save=564.99ms
+[2018.04.22-15.46.49:188][461]LogSavePackage: Moving 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/James_LevelDemo_BuiltDataD7FA3FFE434A58F9EE0B3896C669200E.tmp' to 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo_BuiltData.uasset'
+[2018.04.22-15.46.49:191][461]LogSavePackage: Display: Finished SavePackage E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/James_LevelDemo_BuiltData.uasset
+[2018.04.22-15.46.53:594][947]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.22-15.46.53:782][948]Cmd: QUIT_EDITOR
+[2018.04.22-15.46.53:830][948]LogExit: Preparing to exit.
+[2018.04.22-15.46.54:822][948]LogExit: Editor shut down
+[2018.04.22-15.46.54:853][948]LogExit: Transaction tracking system shut down
+[2018.04.22-15.46.55:156][948]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.22-15.46.55:156][948]LogDirectoryWatcher: A directory notification for 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/' was aborted.
+[2018.04.22-15.46.55:156][948]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.22-15.46.55:156][948]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.22-15.46.55:156][948]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.22-15.46.55:485][948]LogExit: Object subsystem successfully closed.
+[2018.04.22-15.46.55:558][948]LogD3D11RHI: Shutdown
+[2018.04.22-15.46.55:558][948]LogD3D11RHI: CleanupD3DDevice
+[2018.04.22-15.46.55:738][948]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.22-15.46.55:765][948]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2018.04.22-15.46.55:765][948]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2018.04.22-15.46.55:765][948]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.04.22-15.46.55:765][948]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.04.22-15.46.55:765][948]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.04.22-15.46.55:766][948]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.04.22-15.46.55:772][948]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.04.22-15.46.55:772][948]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.04.22-15.46.55:772][948]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.04.22-15.46.55:772][948]LogDirectoryWatcher: A directory notification for 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Collections/' was aborted.
+[2018.04.22-15.46.55:772][948]LogDirectoryWatcher: A directory notification for 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Developers/mesht/Collections/' was aborted.
+[2018.04.22-15.46.55:772][948]LogDirectoryWatcher: A directory notification for 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Collections/' was aborted.
+[2018.04.22-15.46.55:772][948]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.04.22-15.46.55:772][948]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.04.22-15.46.55:772][948]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.04.22-15.46.55:773][948]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.04.22-15.46.55:774][948]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.04.22-15.46.56:076][948]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.04.22-15.46.56:077][948]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.04.22-15.46.56:130][948]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.04.22-15.46.56:130][948]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.04.22-15.46.56:130][948]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.04.22-15.46.56:130][948]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.04.22-15.46.56:130][948]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.04.22-15.46.56:130][948]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.04.22-15.46.56:131][948]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.04.22-15.46.56:131][948]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.04.22-15.46.56:131][948]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.04.22-15.46.56:131][948]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.04.22-15.46.56:143][948]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.04.22-15.46.56:144][948]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.04.22-15.46.56:144][948]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.04.22-15.46.56:144][948]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.04.22-15.46.56:144][948]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.04.22-15.46.56:144][948]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.04.22-15.46.56:145][948]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.04.22-15.46.56:314][948]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.04.22-15.46.56:315][948]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.04.22-15.46.56:315][948]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.04.22-15.46.56:315][948]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.04.22-15.46.56:315][948]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.04.22-15.46.56:315][948]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.04.22-15.46.56:315][948]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.04.22-15.46.56:315][948]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.04.22-15.46.56:315][948]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.04.22-15.46.56:316][948]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.04.22-15.46.56:316][948]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.04.22-15.46.56:316][948]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.04.22-15.46.56:317][948]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.04.22-15.46.56:317][948]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.04.22-15.46.56:317][948]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.04.22-15.46.56:317][948]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.04.22-15.46.56:317][948]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.04.22-15.46.56:317][948]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.04.22-15.46.56:317][948]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.04.22-15.46.56:317][948]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.04.22-15.46.56:418][948]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.04.22-15.46.56:518][948]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.04.22-15.46.56:518][948]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.04.22-15.46.56:518][948]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.04.22-15.46.56:518][948]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.04.22-15.46.56:518][948]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.04.22-15.46.56:518][948]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.04.22-15.46.56:523][948]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.04.22-15.46.56:523][948]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.04.22-15.46.56:523][948]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.04.22-15.46.56:523][948]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.04.22-15.46.56:526][948]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.04.22-15.46.56:526][948]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.04.22-15.46.56:526][948]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.04.22-15.46.56:526][948]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.04.22-15.46.56:526][948]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.04.22-15.46.56:527][948]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.04.22-15.46.56:531][948]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.04.22-15.46.56:532][948]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.04.22-15.46.56:532][948]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.04.22-15.46.56:532][948]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.04.22-15.46.56:538][948]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.04.22-15.46.56:576][948]LogDerivedDataCache: Shutdown
+[2018.04.22-15.46.56:576][948]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.04.22-15.46.56:577][948]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.04.22-15.46.56:578][948]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.22-15.46.56:579][948]LogOnline: Display: Unloading online subsystem: NULL
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.22-15.46.56:579][948]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.22-15.46.56:579][948]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.22-15.46.56:579][948]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B95624EE0-449C-8EAF-93B5-91BE11EE47C3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=3ed4cd184c79817fa41750a5749f3d64%7C9a7113778c324a5ebfbe2ee726f02543%7C220484ee-82e4-4c5b-bfac-464309ddc758&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.22-15.46.56:597][948]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.22-15.46.56:601][948]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.22-15.46.56:601][948]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.22-15.46.56:601][948]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.22-15.46.56:602][948]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.22-15.46.56:602][948]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.22-15.46.56:602][948]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.22-15.46.56:602][948]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.22-15.46.56:608][948]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.22-15.46.56:622][948]LogExit: Exiting.
+[2018.04.22-15.46.56:643][948]Log file closed, 04/22/18 10:46:56
