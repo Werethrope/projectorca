@@ -1,0 +1,1152 @@
+﻿Log file open, 05/04/18 13:20:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectOrca
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-280196690) SRandInit(-280196690).
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.706758
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.04-18.20.10:591][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.04-18.20.10:591][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.04-18.20.10:633][  0]LogInit: Computer: DESKTOP-P1K0IFH
+[2018.05.04-18.20.10:633][  0]LogInit: User: mesht
+[2018.05.04-18.20.10:633][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.05.04-18.20.10:633][  0]LogInit: High frequency timer resolution =3.320307 MHz
+[2018.05.04-18.20.10:634][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.04-18.20.10:634][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.04-18.20.10:634][  0]LogMemory: Process Physical Memory: 280.20 MB used, 280.20 MB peak
+[2018.05.04-18.20.10:634][  0]LogMemory: Process Virtual Memory: 281.07 MB used, 281.07 MB peak
+[2018.05.04-18.20.10:634][  0]LogMemory: Physical Memory: 7310.18 MB used,  9026.09 MB free, 16336.27 MB total
+[2018.05.04-18.20.10:634][  0]LogMemory: Virtual Memory: 718.34 MB used,  9026.09 MB free, 134217728.00 MB total
+[2018.05.04-18.20.11:015][  0]LogInit: Using OS detected language (en-US).
+[2018.05.04-18.20.11:015][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.04-18.20.11:070][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.04-18.20.14:114][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.04-18.20.14:177][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2018.05.04-18.20.14:177][  0]LogD3D11RHI:       3029/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.04-18.20.14:179][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.04-18.20.14:179][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.04-18.20.14:179][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.04-18.20.14:200][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.04-18.20.14:200][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2018.05.04-18.20.14:201][  0]LogWindows: EnumDisplayDevices:
+[2018.05.04-18.20.14:201][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2018.05.04-18.20.14:201][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:1)
+[2018.05.04-18.20.14:201][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.05.04-18.20.14:201][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.05.04-18.20.14:201][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.04-18.20.14:201][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2018.05.04-18.20.14:201][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.04-18.20.14:201][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.04-18.20.14:201][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.05.04-18.20.14:244][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.04-18.20.14:278][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.04-18.20.14:333][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (E:/Game-Development/Project_Orca/GitRepo/projectorca/Intermediate/Shaders/WorkingDirectory/151100/).
+[2018.05.04-18.20.14:333][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mesht/AppData/Local/Temp/UnrealShaderWorkingDir/EBC50FBD40274BE34C6725B0BE2EB98F/'.
+[2018.05.04-18.20.14:334][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.04-18.20.16:414][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.04-18.20.16:483][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.04-18.20.16:548][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.04-18.20.16:613][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.04-18.20.16:686][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.04-18.20.16:747][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.04-18.20.16:812][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.04-18.20.16:877][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.04-18.20.16:935][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.04-18.20.17:002][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.04-18.20.17:065][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.04-18.20.17:129][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.04-18.20.17:189][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.04-18.20.17:250][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.04-18.20.17:317][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.04-18.20.17:441][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.04-18.20.17:441][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.04-18.20.17:493][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.04-18.20.17:616][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.04-18.20.17:652][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.04-18.20.17:717][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.04-18.20.17:781][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.04-18.20.17:842][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.04-18.20.17:909][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.04-18.20.17:909][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.04-18.20.18:555][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.04-18.20.19:010][  0]LogDerivedDataCache: Loaded boot cache 0.45s 93MB C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.04-18.20.19:010][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.05.04-18.20.19:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Game-Development/Project_Orca/GitRepo/projectorca/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.04-18.20.19:010][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.04-18.20.19:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Game-Development/Project_Orca/GitRepo/projectorca/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.04-18.20.19:010][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.04-18.20.19:039][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.04-18.20.19:052][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mesht/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.04-18.20.19:066][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.04-18.20.19:069][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.04-18.20.19:085][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.04-18.20.19:085][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.04-18.20.19:832][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.05.04-18.20.19:995][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.04-18.20.20:717][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.04-18.20.20:769][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.04-18.20.20:769][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.04-18.20.20:769][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.04-18.20.20:769][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.04-18.20.20:769][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.04-18.20.20:808][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.05.04-18.20.21:704][  0]LogNetVersion: ProjectOrca , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 811679591)
+[2018.05.04-18.20.22:264][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.074162 seconds
+[2018.05.04-18.20.22:272][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.05.04-18.20.22:272][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.05.04-18.20.22:273][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.04-18.20.22:345][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.04-18.20.29:010][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.04-18.20.29:055][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.04-18.20.29:944][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.04-18.20.30:521][  0]SourceControl: Source control is disabled
+[2018.05.04-18.20.30:521][  0]SourceControl: Source control is disabled
+[2018.05.04-18.20.30:582][  0]SourceControl: Source control is disabled
+[2018.05.04-18.20.30:639][  0]SourceControl: Source control is disabled
+[2018.05.04-18.20.31:379][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.04-18.20.31:666][  0]LogOcInput: OculusInput pre-init called
+[2018.05.04-18.20.32:024][  0]LogEngine: Initializing Engine...
+[2018.05.04-18.20.32:027][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.04-18.20.32:443][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.04-18.20.32:443][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.04-18.20.32:609][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.04-18.20.32:636][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.05.04-18.20.32:652][  0]LogInit: FAudioDevice initialized.
+[2018.05.04-18.20.32:751][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.04-18.20.32:770][  0]LogInit: Texture streaming: Enabled
+[2018.05.04-18.20.32:902][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.04-18.20.33:283][  0]LogInit: Transaction tracking system initialized
+[2018.05.04-18.20.33:699][  0]BlueprintLog: New page: Editor Load
+[2018.05.04-18.20.34:871][  0]LocalizationService: Localization service is disabled
+[2018.05.04-18.20.35:767][  0]LogConsoleResponse: Display: 
+[2018.05.04-18.20.36:373][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.04-18.20.36:373][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.04-18.20.36:374][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.04-18.20.37:760][  0]SourceControl: Source control is disabled
+[2018.05.04-18.20.37:763][  0]Cmd: MAP LOAD FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-18.20.37:791][  0]LightingResults: New page: Lighting Build
+[2018.05.04-18.20.37:857][  0]MapCheck: New page: Map Check
+[2018.05.04-18.20.37:857][  0]LightingResults: New page: Lighting Build
+[2018.05.04-18.20.42:477][  0]LogAIModule: Creating AISystem for world DevMap
+[2018.05.04-18.20.42:829][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-18.20.42:870][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-18.20.42:942][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.646ms to complete.
+[2018.05.04-18.20.42:942][  0]LogFileHelpers: Loading map 'DevMap' took 5.181
+[2018.05.04-18.20.43:198][  0]LogCollectionManager: Loaded 0 collections in 0.014648 seconds
+[2018.05.04-18.20.43:301][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Collections/' took 0.01s
+[2018.05.04-18.20.43:301][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Developers/mesht/Collections/' took 0.01s
+[2018.05.04-18.20.43:301][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Collections/' took 0.01s
+[2018.05.04-18.20.43:301][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.04-18.20.43:313][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2386 classes and 500 folders.
+[2018.05.04-18.20.43:390][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.04-18.20.43:830][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.04-18.20.43:889][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.05.04-18.20.44:045][  0]LogSlate: Took 0.005828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.04-18.20.44:053][  0]LogSlate: Took 0.004668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.04-18.20.44:066][  0]LogSlate: Took 0.005958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.04-18.20.44:248][  0]LogRenderer: Reallocating scene render targets to support 604x292 Format 10 NumSamples 1 (Frame:1).
+[2018.05.04-18.20.44:284][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.05.04-18.20.44:469][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.05.04-18.20.44:469][  0]LogLoad: (Engine Initialization) Total time: 37.64 seconds
+[2018.05.04-18.20.44:470][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.04-18.20.44:470][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.04-18.20.44:832][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.04-18.20.44:916][  0]LogSlate: Took 0.005737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.04-18.20.46:489][  5]LogAssetRegistry: Asset discovery search completed in 26.6779 seconds
+[2018.05.04-18.20.46:494][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.04-18.20.46:494][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2018.05.04-18.21.01:602][688]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.04-18.21.02:649][688]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.04-18.21.03:337][688]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.05.04-18.21.03:338][688]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.05.04-18.21.06:148][688]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.05.04-18.21.06:148][688]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.05.04-18.21.06:160][688]LogBlueprint: Warning: [Compiler Water] [0059.33] Compile of Water successful, but with 2 Warning(s) [in 45 ms] (/Game/ISW/Water.Water)
+[2018.05.04-18.21.40:844][688]LogAIModule: Creating AISystem for world James_LevelDemo
+[2018.05.04-18.21.41:022][688]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.162 s
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: 
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 759]
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: Nans found on Bounds for Primitive ParticleSystemComponent0: Origin X=3878493952166138908041451527718567936.000 Y=-835650487477651560219444713422323712.000 Z=-2170686382943838094654884106525999104.000, BoxExtent X=3878205878567237042909961401915146240.000 Y=1688250097305654661651601097052127232.000 Z=2170765294193702301935127276300533760.000, SphereRadius inf
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: Stack: 
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B43E36
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000178CC2D2
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000178E4746
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x000000000E237D29
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000147DD7A4
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000014E05724
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000001470DE2C
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000001473A85F
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000001430DB01
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000014B816CE
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000154C3837
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000127C7476
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000127B4B3F
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018C30F67
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018F3B666
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018F51766
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018F50CB2
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018F65DD8
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018F6FF4A
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018F6F6C2
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000038DED17
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x0000000003A2112F
+[2018.05.04-18.21.41:022][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039D3DA7
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039DB637
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x0000000003A2B669
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039D22F1
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039DA43F
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039D8148
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x0000000003A38150
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x0000000003A2B8CA
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013C25F9E
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013BF6D9E
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013C8F7C4
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013C79092
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013C6AC40
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B1B707
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B03EE1
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B1D5BB
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017AFF042
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: USER32.dll!0x000000006881B85D
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: USER32.dll!0x000000006881B1EF
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B1DCC6
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor.exe!0x00000000862F4BE2
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor.exe!0x0000000086303970
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor.exe!0x00000000863039EA
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor.exe!0x00000000863102D9
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: UE4Editor.exe!0x0000000086311C47
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: KERNEL32.DLL!0x000000006A6F1FE4
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: ntdll.dll!0x000000006A82F061
+[2018.05.04-18.21.41:023][688]LogOutputDevice: Error: 
+[2018.05.04-18.21.41:029][688]LogStats:                SubmitErrorReport -  0.000 s
+[2018.05.04-18.21.41:538][688]LogStats:                    SendNewReport -  0.509 s
+[2018.05.04-18.21.41:538][688]LogStats:             FDebug::EnsureFailed -  0.678 s
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:798][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.41:799][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var3_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var3_BP_33398
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.41:821][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP_8182
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.41:863][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.41:864][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy_SlowerLeaves_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy_SlowerLeaves_BP_9842
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:190][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:191][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:191][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:191][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:191][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:191][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:191][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.42:191][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP_4012
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.42:328][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.42:329][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP_4315
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:261][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:262][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:262][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:262][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:262][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:262][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:262][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP2_47382
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:401][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:401][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:401][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:401][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:401][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:401][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:401][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:401][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:402][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP_23524
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:542][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:543][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:543][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:543][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:543][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:543][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP2_2636
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:598][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:598][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:598][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:598][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:598][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:598][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:599][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP3_6752
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:702][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:702][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:702][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:702][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:703][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_Var2_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_Var2_BP4_15461
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:791][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:792][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:792][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:792][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:792][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:792][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:792][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.43:792][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.43:792][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_WithBridges_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_WithBridges_BP2_1782
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.44:137][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.44:138][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Ivy1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Ivy1_BP2_3460
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.44:193][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.44:194][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP3_15761
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:204][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:205][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:205][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:205][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:205][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:205][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.44:205][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.44:205][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP4_37557
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.45:087][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:087][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:087][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:01E6
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.45:088][688]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	PRESET_Flowers1_BP_C /Game/Maps/James_LevelDemo.James_LevelDemo:PersistentLevel.PRESET_Flowers1_BP5_58533
+	Function /Game/SmartSplineGen/Blueprints/InternalLogic/StemSpline_BP.StemSpline_BP_C:UserConstructionScript:0346
+[2018.05.04-18.21.45:287][688]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.007 s
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: 
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 877]
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: Nans found on Bounds for Primitive ParticleSystemComponent0: Origin X=3878493952166138908041451527718567936.000 Y=-835650487477651560219444713422323712.000 Z=-2170686382943838094654884106525999104.000, BoxExtent X=3878205878567237042909961401915146240.000 Y=1688250097305654661651601097052127232.000 Z=2170765294193702301935127276300533760.000, SphereRadius inf
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: Stack: 
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B43E36
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000178CC2D2
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000178E4746
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x000000000E2C55B7
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000148040EC
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000014E2E497
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000001470AD19
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000014BE6C07
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000014C28DAD
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000014C4028C
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000153C566E
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000014569DC7
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018C82EA5
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018E021AA
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000018E01C55
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000012B457F0
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-AssetTools.dll!0x0000000004AEB286
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000001304EB4D
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-AssetTools.dll!0x0000000004A82875
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x0000000003A214C8
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039D3DA7
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039DB637
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x0000000003A2B669
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039D22F1
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039DA43F
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000039D8148
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x0000000003A38150
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x0000000003A2B8CA
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013C25F9E
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013BF6D9E
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013C8F7C4
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013C79092
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000013C6AC40
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B1B707
+[2018.05.04-18.21.45:287][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B03EE1
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B1D5BB
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017AFF042
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: USER32.dll!0x000000006881B85D
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: USER32.dll!0x000000006881B1EF
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000017B1DCC6
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: UE4Editor.exe!0x00000000862F4BE2
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: UE4Editor.exe!0x0000000086303970
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: UE4Editor.exe!0x00000000863039EA
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: UE4Editor.exe!0x00000000863102D9
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: UE4Editor.exe!0x0000000086311C47
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: KERNEL32.DLL!0x000000006A6F1FE4
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: ntdll.dll!0x000000006A82F061
+[2018.05.04-18.21.45:288][688]LogOutputDevice: Error: 
+[2018.05.04-18.21.45:288][688]LogStats:                SubmitErrorReport -  0.000 s
