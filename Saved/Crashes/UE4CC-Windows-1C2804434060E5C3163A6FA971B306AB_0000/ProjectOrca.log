@@ -1,0 +1,333 @@
+﻿Log file open, 05/09/18 18:58:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectOrca
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(567441244) SRandInit(567441244).
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.334696
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.09-23.58.19:586][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.09-23.58.19:586][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.09-23.58.19:638][  0]LogInit: Computer: DESKTOP-P1K0IFH
+[2018.05.09-23.58.19:638][  0]LogInit: User: mesht
+[2018.05.09-23.58.19:638][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.05.09-23.58.19:638][  0]LogInit: High frequency timer resolution =3.320313 MHz
+[2018.05.09-23.58.19:639][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.09-23.58.19:639][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.09-23.58.19:639][  0]LogMemory: Process Physical Memory: 282.19 MB used, 282.19 MB peak
+[2018.05.09-23.58.19:639][  0]LogMemory: Process Virtual Memory: 279.27 MB used, 279.27 MB peak
+[2018.05.09-23.58.19:639][  0]LogMemory: Physical Memory: 4533.79 MB used,  11802.48 MB free, 16336.27 MB total
+[2018.05.09-23.58.19:639][  0]LogMemory: Virtual Memory: 716.46 MB used,  11802.48 MB free, 134217728.00 MB total
+[2018.05.09-23.58.19:821][  0]LogInit: Using OS detected language (en-US).
+[2018.05.09-23.58.19:821][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.09-23.58.19:877][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.09-23.58.23:628][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.09-23.58.23:687][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2018.05.09-23.58.23:688][  0]LogD3D11RHI:       3029/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.09-23.58.23:692][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.09-23.58.23:692][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.09-23.58.23:692][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.09-23.58.23:701][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.09-23.58.23:701][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2018.05.09-23.58.23:701][  0]LogWindows: EnumDisplayDevices:
+[2018.05.09-23.58.23:702][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2018.05.09-23.58.23:702][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:1)
+[2018.05.09-23.58.23:702][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.05.09-23.58.23:702][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.05.09-23.58.23:702][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.09-23.58.23:702][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2018.05.09-23.58.23:702][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.09-23.58.23:702][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.09-23.58.23:702][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.05.09-23.58.23:740][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.09-23.58.23:762][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.09-23.58.23:813][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (E:/Game-Development/Project_Orca/GitRepo/projectorca/Intermediate/Shaders/WorkingDirectory/8068/).
+[2018.05.09-23.58.23:813][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mesht/AppData/Local/Temp/UnrealShaderWorkingDir/4CE7DA4842C3369A327684AE320F99CD/'.
+[2018.05.09-23.58.23:813][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.09-23.58.27:806][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.09-23.58.27:868][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.09-23.58.27:931][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.09-23.58.27:993][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.09-23.58.28:060][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.09-23.58.28:119][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.09-23.58.28:179][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.09-23.58.28:239][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.09-23.58.28:290][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.09-23.58.28:352][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.09-23.58.28:411][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.09-23.58.28:473][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.09-23.58.28:532][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.09-23.58.28:590][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.09-23.58.28:647][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.09-23.58.28:766][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.09-23.58.28:766][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.09-23.58.28:810][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.09-23.58.28:913][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.09-23.58.28:948][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.09-23.58.29:007][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.09-23.58.29:065][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.09-23.58.29:122][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.09-23.58.29:185][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.09-23.58.29:185][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.09-23.58.29:739][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.09-23.58.30:201][  0]LogDerivedDataCache: Loaded boot cache 0.46s 93MB C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.09-23.58.30:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.05.09-23.58.30:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Game-Development/Project_Orca/GitRepo/projectorca/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.09-23.58.30:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.09-23.58.30:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Game-Development/Project_Orca/GitRepo/projectorca/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.09-23.58.30:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.09-23.58.30:222][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.09-23.58.30:234][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mesht/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.09-23.58.30:246][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.09-23.58.30:246][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.09-23.58.30:261][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.09-23.58.30:261][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.09-23.58.30:767][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.05.09-23.58.30:917][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.09-23.58.31:324][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.09-23.58.31:370][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.09-23.58.31:370][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.09-23.58.31:370][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.09-23.58.31:370][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.09-23.58.31:370][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.09-23.58.31:372][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.05.09-23.58.31:824][  0]LogNetVersion: ProjectOrca , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 811679591)
+[2018.05.09-23.58.32:062][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.058363 seconds
+[2018.05.09-23.58.32:069][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.05.09-23.58.32:069][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.05.09-23.58.32:069][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.09-23.58.32:136][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.09-23.58.36:824][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.09-23.58.36:867][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.09-23.58.37:613][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.09-23.58.38:067][  0]SourceControl: Source control is disabled
+[2018.05.09-23.58.38:067][  0]SourceControl: Source control is disabled
+[2018.05.09-23.58.38:125][  0]SourceControl: Source control is disabled
+[2018.05.09-23.58.38:177][  0]SourceControl: Source control is disabled
+[2018.05.09-23.58.38:868][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.09-23.58.39:143][  0]LogOcInput: OculusInput pre-init called
+[2018.05.09-23.58.39:433][  0]LogEngine: Initializing Engine...
+[2018.05.09-23.58.39:435][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.09-23.58.39:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.09-23.58.39:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.09-23.58.39:837][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.09-23.58.39:857][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.05.09-23.58.39:867][  0]LogInit: FAudioDevice initialized.
+[2018.05.09-23.58.39:967][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/mesht/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.09-23.58.39:983][  0]LogInit: Texture streaming: Enabled
+[2018.05.09-23.58.40:110][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.09-23.58.40:372][  0]LogInit: Transaction tracking system initialized
+[2018.05.09-23.58.40:720][  0]BlueprintLog: New page: Editor Load
+[2018.05.09-23.58.41:743][  0]LocalizationService: Localization service is disabled
+[2018.05.09-23.58.42:529][  0]LogConsoleResponse: Display: 
+[2018.05.09-23.58.42:797][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.09-23.58.42:797][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.09-23.58.42:797][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.09-23.58.44:015][  0]SourceControl: Source control is disabled
+[2018.05.09-23.58.44:015][  0]Cmd: MAP LOAD FILE="E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.09-23.58.44:043][  0]LightingResults: New page: Lighting Build
+[2018.05.09-23.58.44:089][  0]MapCheck: New page: Map Check
+[2018.05.09-23.58.44:089][  0]LightingResults: New page: Lighting Build
+[2018.05.09-23.58.45:973][  0]LogAIModule: Creating AISystem for world DevMap
+[2018.05.09-23.58.46:178][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.09-23.58.46:215][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.09-23.58.46:288][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.761ms to complete.
+[2018.05.09-23.58.46:288][  0]LogFileHelpers: Loading map 'DevMap' took 2.273
+[2018.05.09-23.58.46:471][  0]LogCollectionManager: Loaded 0 collections in 0.001907 seconds
+[2018.05.09-23.58.46:558][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Saved/Collections/' took 0.01s
+[2018.05.09-23.58.46:558][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Developers/mesht/Collections/' took 0.01s
+[2018.05.09-23.58.46:558][  0]LogFileCache: Scanning file cache for directory 'E:/Game-Development/Project_Orca/GitRepo/projectorca/Content/Collections/' took 0.01s
+[2018.05.09-23.58.46:558][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.09-23.58.46:569][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2386 classes and 500 folders.
+[2018.05.09-23.58.46:640][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.09-23.58.47:051][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.09-23.58.47:102][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.05.09-23.58.47:199][  0]LogSlate: Took 0.006995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.09-23.58.47:206][  0]LogSlate: Took 0.004227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.09-23.58.47:217][  0]LogSlate: Took 0.005156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.09-23.58.47:353][  0]LogRenderer: Reallocating scene render targets to support 548x300 Format 10 NumSamples 1 (Frame:1).
+[2018.05.09-23.58.47:381][  0]LogRenderer: Reallocating scene render targets to support 1100x600 Format 10 NumSamples 1 (Frame:1).
+[2018.05.09-23.58.47:558][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.05.09-23.58.47:558][  0]LogLoad: (Engine Initialization) Total time: 30.92 seconds
+[2018.05.09-23.58.47:558][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.09-23.58.47:559][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.09-23.58.47:918][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.09-23.58.48:606][  2]LogSlate: Took 0.005393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.09-23.58.49:617][  5]LogAssetRegistry: Asset discovery search completed in 18.8728 seconds
+[2018.05.09-23.58.49:623][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.09-23.58.49:623][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2018.05.09-23.58.55:432][249]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.09-23.58.56:451][249]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.09-23.58.56:732][249]LogBlueprint: Warning: [Compiler NPC_PerchingFlying_Crow] Character.ArrowComponent is not blueprint visible. Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.05.09-23.58.56:732][249]LogBlueprint: Warning: [Compiler NPC_PerchingFlying_Crow] Character.ArrowComponent is not blueprint visible. Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.05.09-23.58.56:760][249]LogBlueprint: Warning: [Compiler NPC_PerchingFlying_Crow] [0040.12] Compile of NPC_PerchingFlying_Crow successful, but with 2 Warning(s) [in 101 ms] (/Game/Birds/Blueprints/NPC_PerchingFlying_Crow.NPC_PerchingFlying_Crow)
+[2018.05.09-23.58.57:198][249]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.05.09-23.58.57:198][249]LogLinker: Can't find file '/Game/IvyPlane'
+[2018.05.09-23.58.59:695][249]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Color Tint  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.05.09-23.58.59:695][249]LogBlueprint: Warning: [Compiler Water] Input pin  Override Scene Fringe Intensity  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2018.05.09-23.58.59:706][249]LogBlueprint: Warning: [Compiler Water] [0043.07] Compile of Water successful, but with 2 Warning(s) [in 45 ms] (/Game/ISW/Water.Water)
+[2018.05.09-23.59.13:364][249]LogAIModule: Creating AISystem for world James_LevelDemo
+[2018.05.09-23.59.13:509][249]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.132 s
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: 
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 759]
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: Nans found on Bounds for Primitive ParticleSystemComponent0: Origin X=3878493952166138908041451527718567936.000 Y=-835650487477651560219444713422323712.000 Z=-2170686382943838094654884106525999104.000, BoxExtent X=3878205878567237042909961401915146240.000 Y=1688250097305654661651601097052127232.000 Z=2170765294193702301935127276300533760.000, SphereRadius inf
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: Stack: 
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000835F3E36
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000008337C2D2
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000083394746
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000078EB7D29
+[2018.05.09-23.59.13:509][249]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000008028D7A4
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000808B5724
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000801BDE2C
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000801EA85F
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000007FDBDB01
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000806316CE
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000080F73837
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007D8F7476
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007D8E4B3F
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007F620F67
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007F92B666
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007F941766
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007F940CB2
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007F955DD8
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007F95FF4A
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007F95F6C2
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E46ED17
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E5B112F
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E563DA7
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E56B637
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E5BB669
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E5622F1
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E56A43F
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E568148
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E5C8150
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006E5BB8CA
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007F0E5F9E
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007F0B6D9E
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007F14F7C4
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007F139092
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007F12AC40
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000835CB707
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000835B3EE1
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000835CD5BB
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000835AF042
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: USER32.dll!0x00000000D690B85D
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: USER32.dll!0x00000000D690B1EF
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000835CDCC6
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor.exe!0x00000000E4EA4BE2
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor.exe!0x00000000E4EB3970
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor.exe!0x00000000E4EB39EA
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor.exe!0x00000000E4EC02D9
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: UE4Editor.exe!0x00000000E4EC1C47
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: KERNEL32.DLL!0x00000000D7511FE4
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: ntdll.dll!0x00000000D8FCF061
+[2018.05.09-23.59.13:510][249]LogOutputDevice: Error: 
+[2018.05.09-23.59.13:511][249]LogStats:                SubmitErrorReport -  0.000 s
